@@ -1,0 +1,5487 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Toranj\n"
+"POT-Creation-Date: 2014-09-15 17:41+0330\n"
+"PO-Revision-Date: 2015-01-30 17:28+0800\n"
+"Last-Translator: owwwlab <owwwlab@gmail.com>\n"
+"Language-Team: owwwlab <owwwlab@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:20
+msgid "Page not found!"
+msgstr "页面没有找到"
+
+#: 404.php:23
+msgid "Go Back to Home"
+msgstr "返回首页"
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "这篇文章受密码保护限制，请输入密码后在查看。"
+
+#: comments.php:21
+#, php-format
+msgctxt "Comment title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s 条评论"
+
+#: comments.php:35
+msgid "&larr; Older Comments"
+msgstr "&larr; 更早的评论"
+
+#: comments.php:39
+msgid "Newer Comments &rarr;"
+msgstr "更新的评论 &rarr;"
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "抱歉，本文评论已关闭。"
+
+#: comments.php:60
+msgid "Leave a Comment"
+msgstr "欢迎留言"
+
+#: comments.php:78 framework/functions-vc.php:3356
+#: framework/option-tree/includes/ot-functions-admin.php:2923
+#: woocommerce/single-product-reviews.php:62
+msgid "Name"
+msgstr "您的姓名"
+
+#: comments.php:78 comments.php:87
+msgid "(required)"
+msgstr "（必填）"
+
+#: comments.php:87 woocommerce/single-product-reviews.php:64
+msgid "Email"
+msgstr "电子邮箱"
+
+#: comments.php:96
+msgid "Website"
+msgstr "网站（可不填）"
+
+#: framework/functions-assets.php:115 framework/functions-assets.php:158
+#: framework/functions-assets.php:530
+msgid "Prev"
+msgstr "上一页"
+
+#: framework/functions-assets.php:116 framework/functions-assets.php:153
+#: framework/functions-assets.php:546
+msgid "Next"
+msgstr "下一页"
+
+#: framework/functions-assets.php:180
+msgid "Sticky"
+msgstr "置顶"
+
+#: framework/functions-assets.php:213
+msgid "No Comments"
+msgstr "无评论"
+
+#: framework/functions-assets.php:213
+msgid "One comment"
+msgstr "一条评论"
+
+#: framework/functions-assets.php:213
+#, php-format
+msgid "%s comments"
+msgstr "%s 条评论"
+
+#: framework/functions-assets.php:278
+msgid "Pingback:"
+msgstr "自动引用通知"
+
+#: framework/functions-assets.php:278
+msgid "(Edit)"
+msgstr "（编辑）"
+
+#: framework/functions-assets.php:296
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: framework/functions-assets.php:538
+#: framework/option-tree/includes/ot-functions-admin.php:665
+msgid "Close"
+msgstr "关闭"
+
+#: framework/functions-assets.php:589 woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr "日期"
+
+#: framework/functions-assets.php:597
+msgid "Group"
+msgstr "组"
+
+#: framework/functions-assets.php:605
+#: framework/option-tree/includes/ot-functions-admin.php:3663
+#: framework/option-tree/includes/ot-functions-docs-page.php:29
+msgid "Label"
+msgstr "标签"
+
+#: framework/functions-menus.php:22
+msgid "Main Menu"
+msgstr "主菜单"
+
+#: framework/functions-menus.php:23
+msgid "WooCommerce guest menu"
+msgstr "WooCommerce来宾菜单"
+
+#: framework/functions-menus.php:24
+msgid "WooCommerce members menu"
+msgstr "WooCommerce成员菜单"
+
+#: framework/functions-vc.php:116
+#, php-format
+msgid ""
+"<strong>%s</strong> requires <strong><a href=\"http://bit.ly/vcomposer\" "
+"target=\"_blank\">Visual Composer</a></strong> plugin to be installed and "
+"activated on your site."
+msgstr ""
+"<strong>%s</strong> 需要插件 <strong><a href=\"http://bit.ly/vcomposer\" "
+"target=\"_blank\">可视化编辑器</a></strong> 在你的网站上开启或者安装"
+
+#: framework/functions-vc.php:1584 framework/functions-vc.php:1758
+#: framework/functions-vc.php:2118 framework/functions-vc.php:2249
+#: framework/functions-vc.php:2367 framework/functions-vc.php:2495
+#: templates/gallery/archive-grid.php:60
+#: templates/gallery/archive-grid.php:165
+#: templates/gallery/archive-horizontal.php:67
+#: templates/gallery/archive-inpage.php:84
+#: templates/gallery/archive-minimal.php:51
+#: templates/gallery/taxonomy-grid.php:85
+#: templates/gallery/taxonomy-vertical.php:72
+#: templates/portfolio/archive-grid.php:101
+#: templates/portfolio/archive-horizontal.php:73
+#: templates/portfolio/archive-vertical.php:71
+#: templates/portfolio/taxonomy-grid.php:86
+#: templates/portfolio/taxonomy-horizontal.php:69
+#: templates/portfolio/taxonomy-vertical.php:69
+msgid "No items found."
+msgstr "没有结果"
+
+#: framework/functions-vc.php:1684 framework/functions-vc.php:1768
+#: templates/gallery/archive-grid.php:71
+#: templates/gallery/archive-grid.php:106
+#: templates/gallery/archive-inpage.php:31
+#: templates/portfolio/archive-grid.php:28
+msgid "All"
+msgstr "全部"
+
+#: framework/functions-vc.php:2528
+msgid "Portfolio Groups (vertical scroll)"
+msgstr "作品组（垂直）"
+
+#: framework/functions-vc.php:2529 framework/functions-vc.php:2582
+msgid "List of Groups Page"
+msgstr "返回组列表"
+
+#: framework/functions-vc.php:2534 framework/functions-vc.php:2548
+#: framework/functions-vc.php:2587 framework/functions-vc.php:2601
+msgid "Portfolio"
+msgstr "作品"
+
+#: framework/functions-vc.php:2540 framework/functions-vc.php:2593
+#: framework/functions-vc.php:2636 framework/functions-vc.php:2759
+#: framework/functions-vc.php:2827 framework/functions-vc.php:2880
+msgid "Hide sidebar?"
+msgstr "隐藏侧边栏？"
+
+#: framework/functions-vc.php:2546 framework/functions-vc.php:2599
+#: framework/functions-vc.php:2642 framework/functions-vc.php:2765
+#: framework/functions-vc.php:2833 framework/functions-vc.php:2886
+msgid "Side Title"
+msgstr "侧边栏区域标题"
+
+#: framework/functions-vc.php:2553 framework/functions-vc.php:2606
+#: framework/functions-vc.php:2649 framework/functions-vc.php:2772
+#: framework/functions-vc.php:2840 framework/functions-vc.php:2893
+msgid "Side upper-Title"
+msgstr "侧边栏区域标题"
+
+#: framework/functions-vc.php:2555 framework/functions-vc.php:2608
+#: framework/functions-vc.php:2651 framework/functions-vc.php:2774
+#: framework/functions-vc.php:2842 framework/functions-vc.php:2895
+msgid "Browse our"
+msgstr "浏览"
+
+#: framework/functions-vc.php:2556 framework/functions-vc.php:2609
+#: framework/functions-vc.php:2652 framework/functions-vc.php:2775
+#: framework/functions-vc.php:2843 framework/functions-vc.php:2896
+msgid "You can leave this blank"
+msgstr "你可以留空"
+
+#: framework/functions-vc.php:2561 framework/functions-vc.php:2614
+#: framework/functions-vc.php:2657 framework/functions-vc.php:2780
+#: framework/functions-vc.php:2848 framework/functions-vc.php:2901
+#: framework/functions-vc.php:3110 framework/functions-vc.php:3205
+#: framework/functions-vc.php:3300 framework/functions-vc.php:3800
+#: framework/functions-vc.php:4201
+#: framework/option-tree/includes/ot-functions-admin.php:2808
+#: framework/option-tree/includes/ot-functions-admin.php:2859
+#: framework/option-tree/includes/ot-functions-docs-page.php:43
+#: framework/option-tree/includes/ot-functions-docs-page.php:404
+#: framework/option-tree/includes/ot-functions-docs-page.php:454
+msgid "Description"
+msgstr "描述"
+
+#: framework/functions-vc.php:2566 framework/functions-vc.php:2853
+msgid "Animate?"
+msgstr "动画吗？"
+
+#: framework/functions-vc.php:2568 framework/functions-vc.php:2574
+#: framework/functions-vc.php:2855 framework/functions-vc.php:2861
+#: framework/functions-vc.php:4215
+msgid "Yes, Please"
+msgstr "是的，这样"
+
+#: framework/functions-vc.php:2572
+msgid "Show Group descriptions?"
+msgstr "显示组的介绍？"
+
+#: framework/functions-vc.php:2581
+msgid "Portfolio Groups (horizontal scroll)"
+msgstr "作品组（水平）"
+
+#: framework/functions-vc.php:2624
+msgid "Gallery Grid"
+msgstr "图集栅格"
+
+#: framework/functions-vc.php:2625
+msgid "Make a grid gallery page"
+msgstr "制作一个栅格的图集页面"
+
+#: framework/functions-vc.php:2630 framework/functions-vc.php:2644
+#: framework/functions-vc.php:2753 framework/functions-vc.php:2767
+#: framework/functions-vc.php:2821 framework/functions-vc.php:2874
+#: framework/option-tree/assets/theme-mode/demo-meta-boxes.php:50
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:208
+#: framework/option-tree/includes/ot-functions-admin.php:2212
+#: framework/option-tree/includes/ot-functions-admin.php:4670
+#: framework/option-tree/includes/ot-functions-docs-page.php:156
+#: framework/theme-options.php:63
+msgid "Gallery"
+msgstr "图集"
+
+#: framework/functions-vc.php:2663
+msgid "Show filter?"
+msgstr "显示过滤？"
+
+#: framework/functions-vc.php:2664
+msgid "Displays Album filter (if any)"
+msgstr "显示相册过滤器（如果有的话）"
+
+#: framework/functions-vc.php:2670
+msgid "Show filter count?"
+msgstr "显示过滤器计数？"
+
+#: framework/functions-vc.php:2671
+msgid "Displays count items in front of each filter?"
+msgstr "每个过滤器前面显示计数项目？"
+
+#: framework/functions-vc.php:2677 framework/functions-vc.php:2786
+msgid "Hover style"
+msgstr "悬停风格"
+
+#: framework/functions-vc.php:2680 framework/functions-vc.php:2789
+msgid "Simple Icon"
+msgstr "简单图标"
+
+#: framework/functions-vc.php:2681 framework/functions-vc.php:2790
+msgid "Circle"
+msgstr "圆"
+
+#: framework/functions-vc.php:2682 framework/functions-vc.php:2791
+msgid "Plus light"
+msgstr "+亮"
+
+#: framework/functions-vc.php:2683 framework/functions-vc.php:2792
+msgid "Plus dark"
+msgstr "+暗"
+
+#: framework/functions-vc.php:2684 framework/functions-vc.php:2793
+msgid "Plus colored"
+msgstr "+有色"
+
+#: framework/functions-vc.php:2686 framework/functions-vc.php:2795
+#: framework/functions-vc.php:3004 framework/functions-vc.php:3223
+#: framework/functions-vc.php:3772 framework/functions-vc.php:3898
+msgid "Select style"
+msgstr "选择样式"
+
+#: framework/functions-vc.php:2690 framework/functions-vc.php:2799
+msgid "Albm Slug"
+msgstr "别名"
+
+#: framework/functions-vc.php:2692 framework/functions-vc.php:2801
+msgid ""
+"If you want to restrict to an album then input the <code>slug</code> of the "
+"Album."
+msgstr "如果你想限制一个相册，输入相册的<code>别名</code>。"
+
+#: framework/functions-vc.php:2696 framework/functions-vc.php:2805
+msgid "Number of photos"
+msgstr "照片数量"
+
+#: framework/functions-vc.php:2698 framework/functions-vc.php:2807
+msgid "Limit the number of photos, set to 0 to get all"
+msgstr "限制数量的照片，让所有设置为0"
+
+#: framework/functions-vc.php:2703
+msgid "Same ratio Images?"
+msgstr "同样比例的图像？"
+
+#: framework/functions-vc.php:2704
+msgid ""
+"If all your thumbnails are at the same ratio check yes, for example if you "
+"want all your thumbs to be at the same size, or even if you have two "
+"different same ratio images. If you want to use images with variable "
+"heightes leave this blank."
+msgstr ""
+"如果你所有的缩略图都是同样的比例，那么选择“是”，比如说如果你希望你的缩略图都"
+"有一样的大小，或者你有两个不同比例的图片。如果你希望使用不同高度的话请留空。"
+
+#: framework/functions-vc.php:2710
+msgid "Remove item's padding?"
+msgstr "删除项目的padding？"
+
+#: framework/functions-vc.php:2711
+msgid "Remove padding between images?"
+msgstr "删除图像之间padding？"
+
+#: framework/functions-vc.php:2717
+msgid "LG column count"
+msgstr "LG列数"
+
+#: framework/functions-vc.php:2719
+msgid "<code>Integer value</code>. Number of cols for large screen devices"
+msgstr "<code>整数值</code>. 给大屏浏览的列数"
+
+#: framework/functions-vc.php:2724
+msgid "MD column count"
+msgstr "MD列数"
+
+#: framework/functions-vc.php:2726
+msgid "<code>Integer value</code>. Number of cols for medium screen devices"
+msgstr "<code>整数值</code>. 给中屏浏览的列数"
+
+#: framework/functions-vc.php:2731
+msgid "SM column count"
+msgstr "SM列数"
+
+#: framework/functions-vc.php:2733
+msgid "<code>Integer value</code>. Number of cols for small devices"
+msgstr "<code>整数值</code>. 给小屏浏览的列数"
+
+#: framework/functions-vc.php:2738
+msgid "XS column count"
+msgstr "XS列数"
+
+#: framework/functions-vc.php:2740
+msgid "<code>Integer value</code>. Number of cols for extra small devices"
+msgstr "<code>整数值</code>. 给超小屏浏览的列数"
+
+#: framework/functions-vc.php:2747
+msgid "Gallery Horizontal"
+msgstr "水平图集"
+
+#: framework/functions-vc.php:2748
+msgid "Make a horizontal gallery page"
+msgstr "制作一个水平的图集页面"
+
+#: framework/functions-vc.php:2815
+msgid "Gallery Albums (vertical scroll)"
+msgstr "图集相册（垂直滚动）"
+
+#: framework/functions-vc.php:2816 framework/functions-vc.php:2869
+msgid "List of Albums Page"
+msgstr "专辑页面列表"
+
+#: framework/functions-vc.php:2835 framework/functions-vc.php:2888
+msgid "Galleries"
+msgstr "图集"
+
+#: framework/functions-vc.php:2859
+msgid "Show album descriptions?"
+msgstr "显示相册介绍？"
+
+#: framework/functions-vc.php:2868
+msgid "Gallery Albums (horizontal scroll)"
+msgstr "图集相册（水平滚动）"
+
+#: framework/functions-vc.php:2913
+msgid "Title (Totanj Styles) "
+msgstr "标题（主题风格）"
+
+#: framework/functions-vc.php:2919 framework/functions-vc.php:2973
+#: framework/functions-vc.php:3042 framework/functions-vc.php:3097
+#: framework/functions-vc.php:3144 framework/functions-vc.php:3187
+#: framework/functions-vc.php:3258 framework/functions-vc.php:3287
+#: framework/functions-vc.php:3321 framework/functions-vc.php:3350
+#: framework/functions-vc.php:3418 framework/functions-vc.php:3441
+#: framework/functions-vc.php:3512 framework/functions-vc.php:3553
+#: framework/functions-vc.php:3611 framework/functions-vc.php:3693
+#: framework/functions-vc.php:3714 framework/functions-vc.php:3752
+#: framework/functions-vc.php:3988 framework/functions-vc.php:4030
+#: framework/functions-vc.php:4147 framework/functions-vc.php:4343
+msgid "TORANJ"
+msgstr "Toranj主题"
+
+#: framework/functions-vc.php:2925 framework/functions-vc.php:3363
+#: framework/functions-vc.php:4176
+msgid "title"
+msgstr "标题"
+
+#: framework/functions-vc.php:2931
+msgid "title - upper part"
+msgstr "上部标题"
+
+#: framework/functions-vc.php:2933
+msgid "Only used for two-line style"
+msgstr "Only used for two-line style"
+
+#: framework/functions-vc.php:2937 framework/functions-vc.php:2992
+#: framework/functions-vc.php:3118 framework/functions-vc.php:3211
+#: framework/functions-vc.php:3476
+msgid "Style"
+msgstr "样式"
+
+#: framework/functions-vc.php:2945
+msgid "Select type"
+msgstr "选择类型"
+
+#: framework/functions-vc.php:2951
+msgid "Heading"
+msgstr "Heading标题"
+
+#: framework/functions-vc.php:2960
+msgid "Select heading size"
+msgstr "选择标题样式。"
+
+#: framework/functions-vc.php:2967
+msgid "Button"
+msgstr "按钮"
+
+#: framework/functions-vc.php:2979 framework/functions-vc.php:3150
+#: framework/functions-vc.php:3152
+#: framework/option-tree/assets/theme-mode/demo-meta-boxes.php:62
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:548
+#: framework/option-tree/includes/ot-functions-admin.php:2232
+#: framework/option-tree/includes/ot-functions-docs-page.php:269
+msgid "Text"
+msgstr "文本"
+
+#: framework/functions-vc.php:2986 framework/functions-vc.php:3172
+#: framework/functions-vc.php:3537
+msgid "Button Link"
+msgstr "按钮链接。"
+
+#: framework/functions-vc.php:2988 framework/functions-vc.php:3174
+#: framework/functions-vc.php:3539
+msgid "link of the button"
+msgstr "按钮的链接"
+
+#: framework/functions-vc.php:2995 framework/functions-vc.php:3889
+#: framework/option-tree/includes/ot-functions-docs-page.php:420
+#: framework/option-tree/includes/ot-functions-docs-page.php:470
+#: framework/option-tree/includes/ot-functions-docs-page.php:474
+#: framework/option-tree/includes/ot-functions-docs-page.php:478
+#: framework/option-tree/includes/ot-functions-docs-page.php:482
+msgid "Default"
+msgstr "默认"
+
+#: framework/functions-vc.php:2996 framework/functions-vc.php:3890
+msgid "Toranj"
+msgstr "主题"
+
+#: framework/functions-vc.php:2997 framework/functions-vc.php:3891
+msgid "Toranj reverse"
+msgstr "主题（反）"
+
+#: framework/functions-vc.php:2998 framework/functions-vc.php:3892
+msgid "Bootstrap Primary"
+msgstr "Bootstrap Primary"
+
+#: framework/functions-vc.php:2999 framework/functions-vc.php:3893
+msgid "Bootstrap Success"
+msgstr "Bootstrap Success"
+
+#: framework/functions-vc.php:3000 framework/functions-vc.php:3894
+msgid "Bootstrap Info"
+msgstr "Bootstrap Info"
+
+#: framework/functions-vc.php:3001 framework/functions-vc.php:3895
+msgid "Bootstrap Warning"
+msgstr "Bootstrap Warning"
+
+#: framework/functions-vc.php:3002 framework/functions-vc.php:3896
+msgid "Bootstrap Danger"
+msgstr "Bootstrap Danger"
+
+#: framework/functions-vc.php:3008
+msgid "Size"
+msgstr "尺寸"
+
+#: framework/functions-vc.php:3011 framework/theme-options.php:541
+msgid "Large"
+msgstr "大"
+
+#: framework/functions-vc.php:3012 framework/theme-options.php:546
+msgid "Medium"
+msgstr "中"
+
+#: framework/functions-vc.php:3013 framework/theme-options.php:551
+msgid "Small"
+msgstr "小"
+
+#: framework/functions-vc.php:3014
+msgid "Extra Small"
+msgstr "超小"
+
+#: framework/functions-vc.php:3016
+msgid "Select Size"
+msgstr "选择尺寸"
+
+#: framework/functions-vc.php:3020 framework/functions-vc.php:3048
+#: framework/functions-vc.php:3129 framework/functions-vc.php:3227
+#: framework/functions-vc.php:3307 framework/functions-vc.php:3529
+msgid "Icon class"
+msgstr "Icon类"
+
+#: framework/functions-vc.php:3022
+msgid ""
+"Find your icons at <a href='http://fontawesome.io/icons/'>http://fontawesome."
+"io/icons/</a>. eg. <code>fa-heart</code>. Leave blank to ignore the icon"
+msgstr ""
+"图标可以在这里找到：<a href='http://fontawesome.io/icons/'>http://"
+"fontawesome.io/icons/</a>. 比如. <code>fa-heart</code>. 不需要则留空"
+
+#: framework/functions-vc.php:3026
+msgid "Icon Align"
+msgstr "图标对齐"
+
+#: framework/functions-vc.php:3029
+msgid "right"
+msgstr "右侧"
+
+#: framework/functions-vc.php:3030
+msgid "left"
+msgstr "左侧"
+
+#: framework/functions-vc.php:3032
+msgid "align icon with text"
+msgstr "图标与文本对齐"
+
+#: framework/functions-vc.php:3040
+msgid "fontawesome icon"
+msgstr "FontAwesome图标"
+
+#: framework/functions-vc.php:3043
+msgid "Simple fontawesome icon"
+msgstr "简单fontawesome图标"
+
+#: framework/functions-vc.php:3052
+msgid ""
+"Enter the class of icon eg:fa-book ( see available class here :http://"
+"fontawesome.io/icons/)"
+msgstr "输入图标的类 比如: fa-book ( 详情查看 :http://fontawesome.io/icons/)"
+
+#: framework/functions-vc.php:3056
+msgid "Icon font size"
+msgstr "图标字体大小"
+
+#: framework/functions-vc.php:3059
+msgid "Enter the size of icon eg:20"
+msgstr "输入图标大小 如：20"
+
+#: framework/functions-vc.php:3063
+msgid "Icon color"
+msgstr "图标颜色"
+
+#: framework/functions-vc.php:3065
+msgid "Select the color of icon"
+msgstr "选择图标的颜色"
+
+#: framework/functions-vc.php:3070
+msgid "Text align"
+msgstr "文字对齐方式"
+
+#: framework/functions-vc.php:3073
+msgid "Align center"
+msgstr "居中"
+
+#: framework/functions-vc.php:3074
+msgid "Align left"
+msgstr "左对齐"
+
+#: framework/functions-vc.php:3075
+msgid "Align right"
+msgstr "右对齐"
+
+#: framework/functions-vc.php:3077
+msgid "Select text align."
+msgstr "选择文本对齐。"
+
+#: framework/functions-vc.php:3081
+msgid "Icon display"
+msgstr "图标显示"
+
+#: framework/functions-vc.php:3083
+msgid "inline"
+msgstr "内联"
+
+#: framework/functions-vc.php:3083
+msgid "block"
+msgstr "块状"
+
+#: framework/functions-vc.php:3084
+msgid "Select type of display"
+msgstr "选择显示种类"
+
+#: framework/functions-vc.php:3091
+msgid "Icon-Box"
+msgstr "图标框"
+
+#: framework/functions-vc.php:3092
+msgid "add an Icon-Box"
+msgstr "添加一个图标框"
+
+#: framework/functions-vc.php:3103 framework/functions-vc.php:3106
+#: framework/functions-vc.php:3199 framework/functions-vc.php:3201
+#: framework/functions-vc.php:3293 framework/functions-vc.php:3295
+#: framework/functions-vc.php:3327 framework/functions-vc.php:3329
+#: framework/functions-vc.php:3779
+#: framework/option-tree/includes/ot-functions-admin.php:3815
+#: framework/option-tree/includes/ot-meta-box-api.php:223
+#: framework/option-tree/includes/ot-settings-api.php:595
+msgid "Title"
+msgstr "标题"
+
+#: framework/functions-vc.php:3121 framework/functions-vc.php:3490
+msgid "Simple"
+msgstr "简单"
+
+#: framework/functions-vc.php:3122 framework/functions-vc.php:3768
+msgid "Boxed"
+msgstr "框"
+
+#: framework/functions-vc.php:3123
+msgid "Centered box"
+msgstr "中间框"
+
+#: framework/functions-vc.php:3125
+msgid "Select style of the iconbox"
+msgstr "选择图标框的种类"
+
+#: framework/functions-vc.php:3131 framework/functions-vc.php:3229
+#: framework/functions-vc.php:3309 framework/functions-vc.php:3376
+#: framework/functions-vc.php:3388 framework/functions-vc.php:3400
+#: framework/functions-vc.php:3567 framework/functions-vc.php:3651
+msgid ""
+"Find your icons at <a href='http://fontawesome.io/icons/'>http://fontawesome."
+"io/icons/</a>. eg. <code>fa-heart</code>"
+msgstr ""
+"详情查看 <a href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/"
+"</a>比如. <code>fa-heart</code>"
+
+#: framework/functions-vc.php:3138
+msgid "Call to action"
+msgstr "行动起来"
+
+#: framework/functions-vc.php:3139
+msgid "Adds a call to action shortcode"
+msgstr "添加一个行动起来的短码"
+
+#: framework/functions-vc.php:3157
+msgid "Text Font size"
+msgstr "文本字体大小"
+
+#: framework/functions-vc.php:3159
+msgid "Font size in px, input just a number like 18"
+msgstr "px的字体大小，输入大小，比如18"
+
+#: framework/functions-vc.php:3164
+msgid "Button text"
+msgstr "按钮文字"
+
+#: framework/functions-vc.php:3166
+msgid "This will be displayed on the button"
+msgstr "这会显示在按钮上"
+
+#: framework/functions-vc.php:3167
+msgid "Change me"
+msgstr "更改我"
+
+#: framework/functions-vc.php:3181
+msgid "Image with Hover"
+msgstr "图像悬停"
+
+#: framework/functions-vc.php:3182
+msgid "Add an image with hover effect"
+msgstr "添加一个图像附带悬停效果"
+
+#: framework/functions-vc.php:3193 framework/functions-vc.php:3368
+#: framework/functions-vc.php:3559 framework/functions-vc.php:3587
+#: framework/functions-vc.php:3670 framework/functions-vc.php:4154
+#: framework/option-tree/includes/ot-functions-admin.php:667
+#: framework/option-tree/includes/ot-functions-admin.php:2786
+#: framework/option-tree/includes/ot-functions-admin.php:2847
+msgid "Image"
+msgstr "图像"
+
+#: framework/functions-vc.php:3214 framework/functions-vc.php:3575
+#: framework/functions-vc.php:3658 framework/theme-options.php:1004
+msgid "Style #1"
+msgstr "风格 #1"
+
+#: framework/functions-vc.php:3215 framework/functions-vc.php:3576
+#: framework/functions-vc.php:3659
+msgid "Style #2"
+msgstr "风格 #2"
+
+#: framework/functions-vc.php:3216 framework/functions-vc.php:3577
+#: framework/functions-vc.php:3660
+msgid "Style #3"
+msgstr "风格 #3"
+
+#: framework/functions-vc.php:3217 framework/functions-vc.php:3578
+#: framework/functions-vc.php:3661
+msgid "Style #4"
+msgstr "风格 #4"
+
+#: framework/functions-vc.php:3218
+msgid "Style #5"
+msgstr "风格 #5"
+
+#: framework/functions-vc.php:3219
+msgid "Style #6"
+msgstr "风格 #6"
+
+#: framework/functions-vc.php:3220
+msgid "Style #7"
+msgstr "风格 #7"
+
+#: framework/functions-vc.php:3221
+msgid "Style #8"
+msgstr "风格 #8"
+
+#: framework/functions-vc.php:3234
+msgid "HyperLink the Image?"
+msgstr "超链接到图像？"
+
+#: framework/functions-vc.php:3237
+msgid "yes"
+msgstr "是的"
+
+#: framework/functions-vc.php:3242
+msgid "Image Link"
+msgstr "图像链接"
+
+#: framework/functions-vc.php:3244
+msgid "link of the Image"
+msgstr "该图像的链接"
+
+#: framework/functions-vc.php:3252
+msgid "Services Container"
+msgstr "服务箱"
+
+#: framework/functions-vc.php:3264 framework/functions-vc.php:3267
+#: framework/functions-vc.php:3451
+msgid "Widget title"
+msgstr "小工具标题"
+
+#: framework/functions-vc.php:3266 framework/functions-vc.php:3453
+msgid "Enter widget title"
+msgstr "输入小工具标题"
+
+#: framework/functions-vc.php:3272 framework/functions-vc.php:3498
+#: framework/functions-vc.php:3973 framework/functions-vc.php:4132
+#: framework/functions-vc.php:4290
+msgid "Extra class name"
+msgstr "附加类名称"
+
+#: framework/functions-vc.php:3274 framework/functions-vc.php:3500
+#: framework/functions-vc.php:3975 framework/functions-vc.php:4134
+#: framework/functions-vc.php:4292
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"如果你想用完全不同的样式指定给元素，再使用该字段添加一个类名，然后在你的CSS文"
+"件中引用它。"
+
+#: framework/functions-vc.php:3280
+msgid "Services Single item"
+msgstr "服务项目"
+
+#: framework/functions-vc.php:3315
+msgid "Skill bar"
+msgstr "技能条"
+
+#: framework/functions-vc.php:3334
+msgid "Percentage"
+msgstr "百分比"
+
+#: framework/functions-vc.php:3344
+msgid "Personnel"
+msgstr "人员"
+
+#: framework/functions-vc.php:3374
+msgid "Social Icon #1"
+msgstr "社交图标 #1"
+
+#: framework/functions-vc.php:3380
+msgid "Social link #1"
+msgstr "社交链接 #1"
+
+#: framework/functions-vc.php:3382 framework/functions-vc.php:3394
+#: framework/functions-vc.php:3406
+msgid "Add social media link"
+msgstr "添加一个社交链接"
+
+#: framework/functions-vc.php:3386
+msgid "Social Icon #2"
+msgstr "社交图标 #2"
+
+#: framework/functions-vc.php:3392
+msgid "Social link #2"
+msgstr "社交链接 #2"
+
+#: framework/functions-vc.php:3398
+msgid "Social Icon #3"
+msgstr "社交图标 #3"
+
+#: framework/functions-vc.php:3404
+msgid "Social link #3"
+msgstr "社交链接 #3"
+
+#: framework/functions-vc.php:3412
+msgid "Announce box"
+msgstr "公告盒"
+
+#: framework/functions-vc.php:3424 framework/functions-vc.php:3520
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:253
+msgid "Content"
+msgstr "内容"
+
+#: framework/functions-vc.php:3435
+msgid "List Container"
+msgstr "列表箱"
+
+#: framework/functions-vc.php:3436
+msgid "Container for list items"
+msgstr "列表项目的箱子"
+
+#: framework/functions-vc.php:3457
+msgid "Add border?"
+msgstr "添加边框？"
+
+#: framework/functions-vc.php:3465
+msgid "Add Hover effect?"
+msgstr "添加悬停效果？"
+
+#: framework/functions-vc.php:3487
+msgid "Icon Style"
+msgstr "图标样式"
+
+#: framework/functions-vc.php:3491
+msgid "Circle border"
+msgstr "圆形边框"
+
+#: framework/functions-vc.php:3492
+msgid "Square border"
+msgstr "方形边框"
+
+#: framework/functions-vc.php:3506
+msgid "List item"
+msgstr "列表项目"
+
+#: framework/functions-vc.php:3507
+msgid "Single list item"
+msgstr "单个列表项目"
+
+#: framework/functions-vc.php:3522
+msgid "Enter item content"
+msgstr "输入您的内容。"
+
+#: framework/functions-vc.php:3531
+msgid ""
+"Note: You should set the <code>with-icon</code> style for the parent "
+"container."
+msgstr "注意: 你应该为了父级的container设置 <code>with-icon</code>的样式"
+
+#: framework/functions-vc.php:3547
+msgid "Single Light box"
+msgstr "单个 Light box"
+
+#: framework/functions-vc.php:3565 framework/functions-vc.php:3649
+#: framework/theme-options.php:207
+msgid "Icon"
+msgstr "图标"
+
+#: framework/functions-vc.php:3572 framework/functions-vc.php:3655
+msgid "overlay"
+msgstr "叠加"
+
+#: framework/functions-vc.php:3580 framework/functions-vc.php:3663
+msgid "Select overlay style"
+msgstr "选择叠加样式"
+
+#: framework/functions-vc.php:3584 framework/functions-vc.php:3667
+#: framework/option-tree/includes/ot-functions-docs-page.php:35
+#: framework/plugin-register/class-tgm-plugin-activation.php:1393
+msgid "Type"
+msgstr "类型"
+
+#: framework/functions-vc.php:3588 framework/functions-vc.php:3671
+#: framework/option-tree/includes/ot-functions-option-types.php:1644
+msgid "Youtube"
+msgstr "YouTube"
+
+#: framework/functions-vc.php:3589 framework/functions-vc.php:3672
+#: framework/option-tree/includes/ot-functions-option-types.php:1689
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: framework/functions-vc.php:3592 framework/functions-vc.php:3675
+msgid "Select lightbox type"
+msgstr "选择lightbox类型"
+
+#: framework/functions-vc.php:3596 framework/functions-vc.php:3679
+msgid "External url"
+msgstr "外部url"
+
+#: framework/functions-vc.php:3598 framework/functions-vc.php:3681
+msgid ""
+"Youtube: <code>http://www.youtube.com/watch?v=0O2aH4XLbto</code><br>vimeo: "
+"<code>https://vimeo.com/45830194</code><br>"
+msgstr ""
+"YouTube: <code>http://www.youtube.com/watch?v=0O2aH4XLbto</code><br>vimeo: "
+"<code>https://vimeo.com/45830194</code><br>"
+
+#: framework/functions-vc.php:3605
+msgid "Single Light box For gallery"
+msgstr "给图集的单个Light box"
+
+#: framework/functions-vc.php:3617 framework/functions-vc.php:3619
+msgid "Title at Gallery"
+msgstr "图集的标题"
+
+#: framework/functions-vc.php:3624 framework/functions-vc.php:3720
+#: framework/functions-vc.php:3921
+msgid "Image cover"
+msgstr "图像封面"
+
+#: framework/functions-vc.php:3626 framework/functions-vc.php:3722
+msgid "No mater what, I need an Image it is required"
+msgstr "无论如何，图像是必需的"
+
+#: framework/functions-vc.php:3631 framework/functions-vc.php:3727
+#: framework/functions-vc.php:3943
+msgid "MP4 URL"
+msgstr "MP4文件的URL链接"
+
+#: framework/functions-vc.php:3633
+msgid ""
+"leave blank to use only the cover image, if you fill this field it will use "
+"this video as the cover instead of thumbnail.<br> Get the address from your "
+"media section or your external repository."
+msgstr ""
+"只使用封面图像则留空，如果填写了该项则将该视频作为封面 .<br>从媒体库或者外部"
+"获得"
+
+#: framework/functions-vc.php:3637 framework/functions-vc.php:3733
+#: framework/functions-vc.php:3953
+msgid "webm URL"
+msgstr "Webm文件的URL链接"
+
+#: framework/functions-vc.php:3639 framework/functions-vc.php:3735
+#: framework/functions-vc.php:3955
+msgid ""
+"the <code>.webm</code> file. Get the address from your media section or your "
+"external repository."
+msgstr "<code>.webm</code>文件. 从媒体库或者外部获得"
+
+#: framework/functions-vc.php:3643 framework/functions-vc.php:3739
+#: framework/functions-vc.php:3963
+msgid "ogv URL"
+msgstr "OGV文件的URL链接"
+
+#: framework/functions-vc.php:3645 framework/functions-vc.php:3741
+#: framework/functions-vc.php:3965
+msgid ""
+"the <code>.ogv</code> file. Get the address from your media section or your "
+"external repository."
+msgstr "<code>.ogv</code>文件. 从媒体库或者外部获得"
+
+#: framework/functions-vc.php:3687 framework/functions-vc.php:3708
+msgid "External Video"
+msgstr "外部视频"
+
+#: framework/functions-vc.php:3688
+msgid "Youtube and Vimeo video player"
+msgstr "嵌入YouTube/Vimeo播放器"
+
+#: framework/functions-vc.php:3699
+msgid "Embed code"
+msgstr "嵌入代码"
+
+#: framework/functions-vc.php:3701
+msgid "Youtube and Vimeo embed code, and iframe tage."
+msgstr "Youtube & Vimeo 嵌入代码,与 iframe 标签."
+
+#: framework/functions-vc.php:3709
+msgid "HTML5 Video player"
+msgstr "HTML5视频播放器"
+
+#: framework/functions-vc.php:3729
+msgid "Get the address from your media section or your external repository."
+msgstr "从媒体库或者外部获得"
+
+#: framework/functions-vc.php:3747
+msgid "Caption for Media"
+msgstr "媒体文本描述"
+
+#: framework/functions-vc.php:3760
+msgid "Choose preset caption"
+msgstr "选择设置好的描述"
+
+#: framework/functions-vc.php:3763
+msgid "Big Title with Desc"
+msgstr "倒序的大标题"
+
+#: framework/functions-vc.php:3764
+msgid "Big Title only"
+msgstr "大标题Only"
+
+#: framework/functions-vc.php:3765
+msgid "Two Line Title"
+msgstr "两行标题"
+
+#: framework/functions-vc.php:3766
+msgid "Bordered"
+msgstr "边框"
+
+#: framework/functions-vc.php:3767
+msgid "Center Bottom"
+msgstr "中间底部"
+
+#: framework/functions-vc.php:3769
+msgid "Ribbon"
+msgstr "丝带"
+
+#: framework/functions-vc.php:3770
+msgid "Accent"
+msgstr "强调"
+
+#: framework/functions-vc.php:3790
+msgid "Sub-title"
+msgstr "子标题"
+
+#: framework/functions-vc.php:3812 framework/functions-vc.php:3828
+msgid "Position"
+msgstr "位置"
+
+#: framework/functions-vc.php:3815
+msgid "bottom-left"
+msgstr "左下"
+
+#: framework/functions-vc.php:3816
+msgid "top-left"
+msgstr "左上"
+
+#: framework/functions-vc.php:3817
+msgid "bottom-right"
+msgstr "右下"
+
+#: framework/functions-vc.php:3818
+msgid "top-right"
+msgstr "右上"
+
+#: framework/functions-vc.php:3820 framework/functions-vc.php:3834
+msgid "Caption postion"
+msgstr "文本位置"
+
+#: framework/functions-vc.php:3831
+msgid "bottom"
+msgstr "下方"
+
+#: framework/functions-vc.php:3832
+msgid "top"
+msgstr "上方"
+
+#: framework/functions-vc.php:3842
+msgid "Style of caption"
+msgstr "文本风格"
+
+#: framework/functions-vc.php:3845
+msgid "dark"
+msgstr "暗"
+
+#: framework/functions-vc.php:3846
+msgid "light"
+msgstr "亮"
+
+#: framework/functions-vc.php:3858
+msgid "Add button?"
+msgstr "添加按钮？"
+
+#: framework/functions-vc.php:3860 framework/functions-vc.php:4110
+#: framework/functions-vc.php:4127
+msgid "Yes, please"
+msgstr "好的，OK"
+
+#: framework/functions-vc.php:3864
+msgid "Button Label"
+msgstr "按钮标签"
+
+#: framework/functions-vc.php:3866
+msgid "Text on button"
+msgstr "在按钮上的文字"
+
+#: framework/functions-vc.php:3876
+msgid "Button Hyperlink"
+msgstr "按钮链接"
+
+#: framework/functions-vc.php:3886
+msgid "Button Style"
+msgstr "按钮样式"
+
+#: framework/functions-vc.php:3909
+msgid "Media type"
+msgstr "媒体类型"
+
+#: framework/functions-vc.php:3911
+msgid "What media you want to use as the caption background?"
+msgstr "你希望用什么媒体作为文本背景"
+
+#: framework/functions-vc.php:3913
+msgid "image"
+msgstr "图像"
+
+#: framework/functions-vc.php:3914
+msgid "video"
+msgstr "视频"
+
+#: framework/functions-vc.php:3915
+msgid "none"
+msgstr "无"
+
+#: framework/functions-vc.php:3923
+msgid "No mater what, I need an Image it is <strong>required</strong>"
+msgstr "无论如何，图像是<strong>必需的</strong>"
+
+#: framework/functions-vc.php:3932
+msgid "Image size"
+msgstr "图像尺寸"
+
+#: framework/functions-vc.php:3934
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+"输入图像尺寸. 例子: 主题定义的缩略图, 中, 大, 完整或者其他尺寸. 也可以输入: "
+"200x100 (宽度 x 高度). 使用 \"thumbnail\" 缩略图尺寸则留空"
+
+#: framework/functions-vc.php:3945
+msgid ""
+"<code>Required if you want it to be video</code> .mp4 file url. Get the "
+"address from your media section or your external repository."
+msgstr "<code>视频文件url</code>.mp4文件. 从媒体库或者外部获得"
+
+#: framework/functions-vc.php:3983
+msgid "Image Compare"
+msgstr "图像对比"
+
+#: framework/functions-vc.php:3994
+msgid "First Image"
+msgstr "选择主要图像"
+
+#: framework/functions-vc.php:4000
+msgid "Text on First Image"
+msgstr "主要图象的文本"
+
+#: framework/functions-vc.php:4005
+msgid "Second Image"
+msgstr "次要图像"
+
+#: framework/functions-vc.php:4011
+msgid "Text on Second Image"
+msgstr "次要图像的文本"
+
+#: framework/functions-vc.php:4016
+msgid "Gap"
+msgstr "缝隙"
+
+#: framework/functions-vc.php:4018
+msgid "gap between two images compare in px"
+msgstr "2个图像之间的缝隙（px）"
+
+#: framework/functions-vc.php:4024
+msgid "Double Carousel"
+msgstr "双层木马"
+
+#: framework/functions-vc.php:4025
+msgid "Build a Double carousel page"
+msgstr "建立一个双层木马页面"
+
+#: framework/functions-vc.php:4042
+msgid "Right Side dirrection"
+msgstr "右侧方向"
+
+#: framework/functions-vc.php:4045 framework/functions-vc.php:4061
+msgid "down"
+msgstr "下"
+
+#: framework/functions-vc.php:4046 framework/functions-vc.php:4062
+msgid "up"
+msgstr "上"
+
+#: framework/functions-vc.php:4051
+msgid "Right Side duration"
+msgstr "右侧持续时间"
+
+#: framework/functions-vc.php:4054 framework/functions-vc.php:4070
+msgid "Seconds"
+msgstr "秒"
+
+#: framework/functions-vc.php:4058
+msgid "Left Side dirrection"
+msgstr "左侧方向"
+
+#: framework/functions-vc.php:4067
+msgid "Left Side duration"
+msgstr "左侧持续时间"
+
+#: framework/functions-vc.php:4075
+msgid "Enable mouse swip navigation?"
+msgstr "开启鼠标滑动浏览？"
+
+#: framework/functions-vc.php:4078 framework/functions-vc.php:4086
+#: framework/functions-vc.php:4094 framework/functions-vc.php:4102
+msgid "No, thanks"
+msgstr "不用，谢谢"
+
+#: framework/functions-vc.php:4083
+msgid "Enable keyboard navigation?"
+msgstr "开启键盘导航？"
+
+#: framework/functions-vc.php:4091
+msgid "Enable touch?"
+msgstr "开启触屏感应？"
+
+#: framework/functions-vc.php:4099
+msgid "Show navigation bullets?"
+msgstr "显示小圆点？"
+
+#: framework/functions-vc.php:4107
+msgid "Show numbers instead of bullets?"
+msgstr "显示数字而不是小圆点？"
+
+#: framework/functions-vc.php:4115
+msgid "Howo to center the bullets?"
+msgstr "如何居中小圆点？"
+
+#: framework/functions-vc.php:4118
+msgid "vertical"
+msgstr "垂直的"
+
+#: framework/functions-vc.php:4119
+msgid "horizontal"
+msgstr "水平的"
+
+#: framework/functions-vc.php:4124
+msgid "Show navigation arrows?"
+msgstr "显示导航箭头？"
+
+#: framework/functions-vc.php:4141
+msgid "Double Carousel Slide"
+msgstr "轮播双层木马"
+
+#: framework/functions-vc.php:4142
+msgid "Add slide to your carousel"
+msgstr "添加一个幻灯片"
+
+#: framework/functions-vc.php:4160
+msgid "Background Color"
+msgstr "背景色"
+
+#: framework/functions-vc.php:4165
+msgid "Content Type"
+msgstr "内容类型"
+
+#: framework/functions-vc.php:4167
+msgid "Select the content type"
+msgstr "选择内容类型"
+
+#: framework/functions-vc.php:4169
+msgid "Team carousel style"
+msgstr "旋转木马（轮播）样式。"
+
+#: framework/functions-vc.php:4170
+msgid "Let me do my own"
+msgstr "让我自己制作"
+
+#: framework/functions-vc.php:4178
+msgid "title or the Firstname"
+msgstr "标题或者姓名"
+
+#: framework/functions-vc.php:4188
+msgid "Big Title"
+msgstr "大标题"
+
+#: framework/functions-vc.php:4190
+msgid "Big title of Lastname"
+msgstr "姓氏的大标题"
+
+#: framework/functions-vc.php:4213
+msgid "Add social icons?"
+msgstr "添加社交图标？"
+
+#: framework/functions-vc.php:4224
+msgid "Facebook URL"
+msgstr "Facebook链接"
+
+#: framework/functions-vc.php:4234
+msgid "Twitter URL"
+msgstr "Twitter链接"
+
+#: framework/functions-vc.php:4243
+msgid "LinkedIn URL"
+msgstr "LinkedIn链接"
+
+#: framework/functions-vc.php:4252
+msgid "Instagram URL"
+msgstr "Instagram链接"
+
+#: framework/functions-vc.php:4261
+msgid "Flickr URL"
+msgstr "Flickr链接"
+
+#: framework/functions-vc.php:4270
+msgid "Google+ URL"
+msgstr "Google+ 链接"
+
+#: framework/functions-vc.php:4280
+msgid "My own content"
+msgstr "我自己的内容"
+
+#: framework/functions-vc.php:4281
+msgid "Add your own HTML markup here"
+msgstr "在这添加您自己的HTML代码"
+
+#: framework/functions-vc.php:4338
+msgid "Kenburen Slider"
+msgstr "KB幻灯片"
+
+#: framework/functions-vc.php:4349
+msgid "Slider ID"
+msgstr "幻灯片ID"
+
+#: framework/functions-vc.php:4352
+msgid "Input the numeric id of the slider"
+msgstr "输入幻灯片的数字ID"
+
+#: framework/functions-vc.php:4372
+msgid "Portfolio Single image style"
+msgstr "单个作品集图像风格"
+
+#: framework/functions-vc.php:4382
+msgid "Regular Contact Page template"
+msgstr "联系页面模板"
+
+#: framework/functions-vc.php:4394
+msgid "Services Page template"
+msgstr "服务页面模板"
+
+#: framework/functions-vc.php:4412
+msgid "About Page Template"
+msgstr "关于页面模板"
+
+#: framework/functions-widgets.php:20
+msgid "Main Widget Area"
+msgstr "主要小工具区域"
+
+#: framework/functions-widgets.php:22
+msgid "Appears on posts and pages."
+msgstr "在文章与页面显示"
+
+#: framework/functions-widgets.php:32
+msgid "Footer Widget Area"
+msgstr "页脚小工具区域"
+
+#: framework/functions-widgets.php:34
+msgid "Appears on the footer."
+msgstr "显示在页脚"
+
+#: framework/functions-widgets.php:44
+msgid "WooCommerce sidebar"
+msgstr "WooCommerce侧边栏"
+
+#: framework/functions-widgets.php:46
+msgid "Appears on WooCommerce pages"
+msgstr "显示在WooCommerce页面中"
+
+#: framework/functions-woocommerce.php:22 template-woocommerce-page.php:74
+#: woocommerce/parts/header.php:54
+msgid "View your shopping cart"
+msgstr "查看您的购物车"
+
+#: framework/functions-woocommerce.php:23 template-woocommerce-page.php:75
+#: woocommerce/parts/header.php:55
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 个项目"
+
+#: framework/option-tree/assets/theme-mode/demo-meta-boxes.php:23
+msgid "Demo Meta Box"
+msgstr "演示元数据框"
+
+#: framework/option-tree/assets/theme-mode/demo-meta-boxes.php:30
+msgid "Conditions"
+msgstr "条件"
+
+#: framework/option-tree/assets/theme-mode/demo-meta-boxes.php:35
+msgid "Show Gallery"
+msgstr "显示图集"
+
+#: framework/option-tree/assets/theme-mode/demo-meta-boxes.php:38
+#, php-format
+msgid "Shows the Gallery when set to %s."
+msgstr "当设置成 %s 时显示图集"
+
+#: framework/option-tree/assets/theme-mode/demo-meta-boxes.php:45
+msgid "Congratulations, you created a gallery!"
+msgstr "恭喜你，你创造了一个图集！"
+
+#: framework/option-tree/assets/theme-mode/demo-meta-boxes.php:53
+#, php-format
+msgid "This is a Gallery option type. It displays when %s."
+msgstr "这是一个图集的选项类型。当%s 时显示"
+
+#: framework/option-tree/assets/theme-mode/demo-meta-boxes.php:57
+msgid "More Options"
+msgstr "更多选项"
+
+#: framework/option-tree/assets/theme-mode/demo-meta-boxes.php:65
+msgid "This is a demo Text field."
+msgstr "这是一个演示文本字段。"
+
+#: framework/option-tree/assets/theme-mode/demo-meta-boxes.php:68
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:563
+#: framework/option-tree/includes/ot-functions-admin.php:2233
+#: framework/option-tree/includes/ot-functions-docs-page.php:272
+msgid "Textarea"
+msgstr "文本域"
+
+#: framework/option-tree/assets/theme-mode/demo-meta-boxes.php:71
+msgid "This is a demo Textarea field."
+msgstr "这是一个演示文本区域"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:29
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:38
+#: framework/option-tree/includes/ot-functions-admin.php:234
+msgid "Option Types"
+msgstr "选项​​类型"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:30
+msgid "Help content goes here!"
+msgstr "帮助内容在这里！"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:33
+msgid "Sidebar content goes here!"
+msgstr "侧边栏的内容在这里！"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:44
+#: framework/option-tree/includes/ot-functions-admin.php:2202
+#: framework/option-tree/includes/ot-functions-docs-page.php:110
+msgid "Background"
+msgstr "背景"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:45
+#: framework/option-tree/includes/ot-functions-docs-page.php:111
+#, php-format
+msgid ""
+"The Background option type is for adding background styles to your theme "
+"either dynamically via the CSS option type below or manually with %s. The "
+"Background option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+"背景选项类型是用来添加背景样式的，你可以自动地通过下面的CSS选项或者手动地通"
+"过%s. 背景选项类型提供过滤器。比如你可以过滤掉 %s 来删掉不需要的域。可以通过"
+"需求调整%s."
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:45
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:624
+#: framework/option-tree/includes/ot-functions-admin.php:3616
+#: framework/option-tree/includes/ot-functions-docs-page.php:111
+#: framework/option-tree/includes/ot-functions-docs-page.php:354
+msgid "and"
+msgstr "和"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:59
+#: framework/option-tree/includes/ot-functions-admin.php:2203
+#: framework/option-tree/includes/ot-functions-docs-page.php:113
+msgid "Category Checkbox"
+msgstr "类别复选框"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:60
+#: framework/option-tree/includes/ot-functions-docs-page.php:114
+msgid ""
+"The Category Checkbox option type displays a list of category IDs. It allows "
+"the user to check multiple category IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+"类别复选框选项类型显示类别ID的列表。它允许用户检查多个类别ID和将返回值作为数"
+"组用于在一个自定义功能或循环使用。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:74
+#: framework/option-tree/includes/ot-functions-admin.php:2204
+#: framework/option-tree/includes/ot-functions-docs-page.php:116
+msgid "Category Select"
+msgstr "类别选择"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:75
+#: framework/option-tree/includes/ot-functions-docs-page.php:117
+msgid ""
+"The Category Select option type displays a list of category IDs. It allows "
+"the user to select only one category ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+"在类别中选择选项类型显示的类别ID的列表。它允许用户仅选择一个类别ID和将在一个"
+"自定义功能或循环返回该值以供使用。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:89
+#: framework/option-tree/includes/ot-functions-admin.php:2205
+#: framework/option-tree/includes/ot-functions-docs-page.php:119
+msgid "Checkbox"
+msgstr "复选框"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:90
+#: framework/option-tree/includes/ot-functions-docs-page.php:120
+msgid ""
+"The Checkbox option type displays a group of choices. It allows the user to "
+"check multiple choices and will return that value as an array for use in a "
+"custom function or loop."
+msgstr ""
+"复选框选项类型显示一组选项。它允许用户检查多个选择和搜索将返回值作为数组用于"
+"在一个自定义功能或循环使用。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:104
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:394
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:446
+msgid "No"
+msgstr "否"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:109
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:389
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:441
+msgid "Yes"
+msgstr "是"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:116
+#: framework/option-tree/includes/ot-functions-docs-page.php:122
+msgid "Colorpicker"
+msgstr "取色器"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:117
+#: framework/option-tree/includes/ot-functions-docs-page.php:123
+msgid ""
+"The Colorpicker option type saves a hexadecimal color code for use in CSS. "
+"Use it to modify the color of something in your theme."
+msgstr ""
+"取色器的选项类型保存CSS使用十六进制颜色代码。用它来修改你的主题的一些颜色。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:131
+#: framework/option-tree/includes/ot-functions-admin.php:2207
+#: framework/option-tree/includes/ot-functions-docs-page.php:125
+msgid "CSS"
+msgstr "层叠样式表"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:132
+#: framework/option-tree/includes/ot-functions-docs-page.php:126
+#, php-format
+msgid ""
+"The CSS option type is a textarea that when used properly can add dynamic "
+"CSS to your theme from within OptionTree. Unfortunately, due server "
+"limitations you will need to create a file named %s at the root level of "
+"your theme and change permissions using %s so the server can write to the "
+"file. I have had the most success setting this single file to %s but feel "
+"free to play around with permissions until everything is working. A good "
+"starting point is %s. When the server can save to the file, CSS will "
+"automatically be updated when you save your Theme Options."
+msgstr ""
+"The CSS option type is a textarea that when used properly can add dynamic "
+"CSS to your theme from within OptionTree. Unfortunately, due server "
+"limitations you will need to create a file named %s at the root level of "
+"your theme and change permissions using %s so the server can write to the "
+"file. I have had the most success setting this single file to %s but feel "
+"free to play around with permissions until everything is working. A good "
+"starting point is %s. When the server can save to the file, CSS will "
+"automatically be updated when you save your Theme Options."
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:132
+#: framework/option-tree/includes/ot-functions-docs-page.php:128
+#, php-format
+msgid ""
+"This example assumes you have an option with the ID of %1$s. Which means "
+"this option will automatically insert the value of %1$s into the %2$s when "
+"the Theme Options are saved."
+msgstr ""
+"这个示例假设您有一个选项%1$s的ID。这意味着这个选项将自动插入的值%1$s %2$s年代"
+"主题选项保存。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:148
+#: framework/option-tree/includes/ot-functions-admin.php:2208
+#: framework/option-tree/includes/ot-functions-docs-page.php:144
+msgid "Custom Post Type Checkbox"
+msgstr "自定义文章类型复选框"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:149
+#: framework/option-tree/includes/ot-functions-docs-page.php:145
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It allows the user to "
+"check multiple post IDs for use in a custom function or loop. Requires at "
+"least one valid %1$s in the %1$s field."
+msgstr ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It allows the user to "
+"check multiple post IDs for use in a custom function or loop. Requires at "
+"least one valid %1$s in the %1$s field."
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:163
+#: framework/option-tree/includes/ot-functions-admin.php:2209
+#: framework/option-tree/includes/ot-functions-docs-page.php:147
+msgid "Custom Post Type Select"
+msgstr "自定义文章类型选择"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:164
+#: framework/option-tree/includes/ot-functions-docs-page.php:148
+#, php-format
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It will return a single "
+"post ID for use in a custom function or loop. Requires at least one valid "
+"%1$s in the %1$s field."
+msgstr ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It will return a single "
+"post ID for use in a custom function or loop. Requires at least one valid "
+"%1$s in the %1$s field."
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:178
+#: framework/option-tree/includes/ot-functions-admin.php:2210
+#: framework/option-tree/includes/ot-functions-docs-page.php:150
+msgid "Date Picker"
+msgstr "日期选择器"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:179
+#: framework/option-tree/includes/ot-functions-docs-page.php:151
+msgid ""
+"The Date Picker option type is tied to a standard form input field which "
+"displays a calendar pop-up that allow the user to pick any date when focus "
+"is given to the input field. The returned value is a date formatted string."
+msgstr ""
+"该日期选取器选项类型绑定到其显示日历弹出窗口，允许用户选择任何日期的重点是考"
+"虑到输入字段的标准格式输入字段。返回的值是一个日期格式的字符串。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:193
+#: framework/option-tree/includes/ot-functions-admin.php:2211
+#: framework/option-tree/includes/ot-functions-docs-page.php:153
+msgid "Date Time Picker"
+msgstr "日期时间选择器"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:194
+#: framework/option-tree/includes/ot-functions-docs-page.php:154
+msgid ""
+"The Date Time Picker option type is tied to a standard form input field "
+"which displays a calendar pop-up that allow the user to pick any date and "
+"time when focus is given to the input field. The returned value is a date "
+"and time formatted string."
+msgstr ""
+"日期时间选择器选项类型依赖于它显示日历弹出窗口，允许用户选择任何日期和时间重"
+"点是考虑到输入字段的标准格式输入字段。返回的值是日期和时间格式的字符串。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:209
+#: framework/option-tree/includes/ot-functions-docs-page.php:157
+msgid ""
+"The Gallery option type saves a comma separated list of image attachment "
+"IDs. You will need to create a front-end function to display the images in "
+"your theme."
+msgstr ""
+"图库选项类型保存图像附件ID的逗号分隔的列表。您将需要创建一个前端功能，在你的"
+"主题显示图像。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:223
+msgid "Gallery Shortcode"
+msgstr "图集简码"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:224
+#, php-format
+msgid ""
+"The Gallery option type can also be saved as a shortcode by adding %s to the "
+"class attribute. Using the Gallery option type in this manner will result in "
+"a better user experience as you're able to save the link, column, and order "
+"settings."
+msgstr ""
+"图库选项类型，也可以保存为简码，加入%s 到的类属性。以这种方式使用的库选项类型"
+"将导致更好的用户体验，你能保存链接，列和顺序设置。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:238
+#: framework/option-tree/includes/ot-functions-admin.php:2213
+#: framework/option-tree/includes/ot-functions-docs-page.php:159
+msgid "List Item"
+msgstr "列表项目"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:239
+msgid ""
+"The List Item option type allows for a great deal of customization. You can "
+"add settings to the List Item and those settings will be displayed to the "
+"user when they add a new List Item. Typical use is for creating sliding "
+"content or blocks of code for custom layouts."
+msgstr ""
+"列表项选项类型允许大量的定制。您可以添加设置列表项，当他们增加一个新的列表项"
+"的设置将被显示给用户。典型的应用是创建的代码自定义布局滑动内容或块。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:269
+#: framework/option-tree/includes/ot-functions-admin.php:2214
+#: framework/option-tree/includes/ot-functions-docs-page.php:162
+msgid "Measurement"
+msgstr "量度"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:270
+#: framework/option-tree/includes/ot-functions-docs-page.php:163
+#, php-format
+msgid ""
+"The Measurement option type is a mix of input and select fields. The text "
+"input excepts a value and the select lets you choose the unit of measurement "
+"to add to that value. Currently the default units are %s, %s, %s, and %s. "
+"However, you can change them with the %s filter."
+msgstr ""
+"测量选项类型输入和选择字段的组合。文本输入excepts一个值，选择让你选择的测量单"
+"位添加到该值。目前默认的单位是%s，%s，%s和%s。但是，您可以用%s的过滤器进行更"
+"改。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:284
+#: framework/option-tree/includes/ot-functions-admin.php:2215
+#: framework/option-tree/includes/ot-functions-docs-page.php:193
+msgid "Numeric Slider"
+msgstr "数字滑块"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:285
+#: framework/option-tree/includes/ot-functions-docs-page.php:194
+msgid ""
+"The Numeric Slider option type displays a jQuery UI slider. It will return a "
+"single numerical value for use in a custom function or loop."
+msgstr ""
+"数字滑块选项类型显示一个jQuery UI滑块。它会返回一个数值为自定义函数或循环使"
+"用。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:299
+#: framework/option-tree/includes/ot-functions-admin.php:2216
+#: framework/option-tree/includes/ot-functions-docs-page.php:196
+msgid "On/Off"
+msgstr "开/关"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:300
+#: framework/option-tree/includes/ot-functions-docs-page.php:197
+#, php-format
+msgid ""
+"The On/Off option type displays a simple switch that can be used to turn "
+"things on or off. The saved return value is either %s or %s."
+msgstr ""
+"开/关选项类型显示可以用来打开事物或关闭一个简单的开关。保存的返回值是%s或%s。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:314
+#: framework/option-tree/includes/ot-functions-admin.php:2217
+#: framework/option-tree/includes/ot-functions-docs-page.php:199
+msgid "Page Checkbox"
+msgstr "页面复选框"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:315
+#: framework/option-tree/includes/ot-functions-docs-page.php:200
+msgid ""
+"The Page Checkbox option type displays a list of page IDs. It allows the "
+"user to check multiple page IDs for use in a custom function or loop."
+msgstr ""
+"页面复选框选项类型显示页面ID的列表。它允许用户检查多个页面ID用于在自定义函数"
+"或循环使用。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:329
+#: framework/option-tree/includes/ot-functions-admin.php:2218
+#: framework/option-tree/includes/ot-functions-docs-page.php:202
+msgid "Page Select"
+msgstr "页面选择"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:330
+#: framework/option-tree/includes/ot-functions-docs-page.php:203
+msgid ""
+"The Page Select option type displays a list of page IDs. It will return a "
+"single page ID for use in a custom function or loop."
+msgstr ""
+"页面中选择选项类型显示页面ID的列表。它会返回一个页面ID为自定义函数或循环使"
+"用。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:344
+#: framework/option-tree/includes/ot-functions-admin.php:2219
+#: framework/option-tree/includes/ot-functions-docs-page.php:205
+msgid "Post Checkbox"
+msgstr "帖子复选框"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:345
+#: framework/option-tree/includes/ot-functions-docs-page.php:206
+msgid ""
+"The Post Checkbox option type displays a list of post IDs. It allows the "
+"user to check multiple post IDs for use in a custom function or loop."
+msgstr ""
+"邮政复选框选项类型后显示ID列表。它允许用户检查多重后的ID用于在自定义函数或循"
+"环使用。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:359
+#: framework/option-tree/includes/ot-functions-admin.php:2220
+#: framework/option-tree/includes/ot-functions-docs-page.php:208
+msgid "Post Select"
+msgstr "帖子选择"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:360
+#: framework/option-tree/includes/ot-functions-docs-page.php:209
+msgid ""
+"The Post Select option type displays a list of post IDs. It will return a "
+"single post ID for use in a custom function or loop."
+msgstr "后选择选项类型显示后ID列表。它会返回一个ID后在自定义函数或循环使用。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:374
+#: framework/option-tree/includes/ot-functions-admin.php:2221
+#: framework/option-tree/includes/ot-functions-docs-page.php:211
+msgid "Radio"
+msgstr "收音机"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:375
+#: framework/option-tree/includes/ot-functions-docs-page.php:212
+msgid ""
+"The Radio option type displays a group of choices. It allows the user to "
+"choose one and will return that value as a string for use in a custom "
+"function or loop."
+msgstr ""
+"收音机选项类型显示一组选项。它允许用户选择一个，并返回该值作为字符串用于在一"
+"个自定义功能或循环使用。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:399
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:451
+msgid "Maybe"
+msgstr "说不定"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:406
+#: framework/option-tree/includes/ot-functions-admin.php:2222
+#: framework/option-tree/includes/ot-functions-docs-page.php:214
+msgid "Radio Image"
+msgstr "收音机图像"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:407
+#: framework/option-tree/includes/ot-functions-docs-page.php:215
+#, php-format
+msgid ""
+"the Radio Images option type is primarily used for layouts. However, you can "
+"filter the image list using %s. As well, you can add your own custom images "
+"using the choices array."
+msgstr ""
+"收音机图像选项类型主要用于布局。但是，您可以使用筛选%s的图像列表。同时，您可"
+"以添加使用选择阵列自己的自定义图像。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:421
+#: framework/option-tree/includes/ot-functions-admin.php:2223
+#: framework/option-tree/includes/ot-functions-docs-page.php:241
+msgid "Select"
+msgstr "选择"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:422
+#: framework/option-tree/includes/ot-functions-docs-page.php:242
+msgid ""
+"The Select option type is used to list anything you want that would be "
+"chosen from a select list."
+msgstr "选择选项类型用来列出你想要什么，会从选择列表中选择。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:436
+msgid "-- Choose One --"
+msgstr "-- 选择一个 --"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:458
+#: framework/option-tree/includes/ot-functions-admin.php:2224
+#: framework/option-tree/includes/ot-functions-docs-page.php:244
+msgid "Sidebar Select"
+msgstr "边栏选择"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:459
+#: framework/option-tree/includes/ot-functions-docs-page.php:245
+#, php-format
+msgid ""
+"This option type makes it possible for users to select a WordPress "
+"registered sidebar to use on a specific area. By using the two provided "
+"filters, %s, and %s we can be selective about which sidebars are available "
+"on a specific content area."
+msgstr ""
+"此选项类型使得用户能够选择WordPress的注册侧边栏上的一个特定区域使用。通过使用"
+"这两个所提供的过滤器，%s和%s，我们可以有选择性的侧边栏上可用的特定内容区域有"
+"关哪些。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:459
+#: framework/option-tree/includes/ot-functions-docs-page.php:246
+#, php-format
+msgid ""
+"For example, if we create a WordPress theme that provides the ability to "
+"change the Blog Sidebar and we don't want to have the footer sidebars "
+"available on this area, we can unset those sidebars either manually or by "
+"using a regular expression if we have a common name like %s."
+msgstr ""
+"例如，如果我们创建了一个WordPress主题，提供了改变博客侧边栏的能力，我们不希望"
+"有可在这方面的页脚侧边栏，我们可以手动或使用正则表达式，如果我们取消设置的侧"
+"边栏一个共同的名字就像%s."
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:473
+#: framework/option-tree/includes/ot-functions-admin.php:2228
+#: framework/option-tree/includes/ot-functions-docs-page.php:257
+msgid "Tag Checkbox"
+msgstr "标签复选框"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:474
+#: framework/option-tree/includes/ot-functions-docs-page.php:258
+msgid ""
+"The Tag Checkbox option type displays a list of tag IDs. It allows the user "
+"to check multiple tag IDs and will return that value as an array for use in "
+"a custom function or loop."
+msgstr ""
+"标签复选框选项类型显示标签ID列表。它允许用户检查多个标签ID和将返回值作为数组"
+"用于在一个自定义功能或循环使用。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:488
+#: framework/option-tree/includes/ot-functions-admin.php:2229
+#: framework/option-tree/includes/ot-functions-docs-page.php:260
+msgid "Tag Select"
+msgstr "选择标签"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:489
+#: framework/option-tree/includes/ot-functions-docs-page.php:261
+msgid ""
+"The Tag Select option type displays a list of tag IDs. It allows the user to "
+"select only one tag ID and will return that value for use in a custom "
+"function or loop."
+msgstr ""
+"标签选择选项类型显示标签ID列表。它允许用户仅选择一个标签ID，将在自定义函数或"
+"循环返回该值以供使用。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:503
+#: framework/option-tree/includes/ot-functions-admin.php:2226
+#: framework/option-tree/includes/ot-functions-docs-page.php:251
+msgid "Social Links"
+msgstr "社交网络链接"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:504
+#: framework/option-tree/includes/ot-functions-docs-page.php:252
+#, php-format
+msgid ""
+"The Social Links option type utilizes a drag & drop interface to create a "
+"list of social links. There are a few filters that make extending this "
+"option type easy. You can set the %s filter to %s and turn off loading "
+"default values. Use the %s filter to change the default values that are "
+"loaded. To filter the settings array use the %s filter."
+msgstr ""
+"社会链接选项类型利用拖放界面创建社会链接的列表。有迹象表明，使扩大该选项类型"
+"容易一些过滤器。您可以设置%s滤波器%s和关闭负载的默认值。使用%s滤波器改变加载"
+"的缺省值。要过滤设置阵列使用%s的过滤器。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:518
+#: framework/option-tree/includes/ot-functions-admin.php:2230
+#: framework/option-tree/includes/ot-functions-docs-page.php:263
+msgid "Taxonomy Checkbox"
+msgstr "分类复选框"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:519
+#: framework/option-tree/includes/ot-functions-docs-page.php:264
+msgid ""
+"The Taxonomy Checkbox option type displays a list of taxonomy IDs. It allows "
+"the user to check multiple taxonomy IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+"该分类复选框选项类型显示分类ID列表。它允许用户检查多个分类ID和将返回值作为数"
+"组用于在一个自定义功能或循环使用。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:533
+#: framework/option-tree/includes/ot-functions-admin.php:2231
+#: framework/option-tree/includes/ot-functions-docs-page.php:266
+msgid "Taxonomy Select"
+msgstr "分类选择"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:534
+#: framework/option-tree/includes/ot-functions-docs-page.php:267
+msgid ""
+"The Taxonomy Select option type displays a list of taxonomy IDs. It allows "
+"the user to select only one taxonomy ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+"标签选择选项类型显示标签ID列表。它允许用户仅选择一个标签ID，将在自定义函数或"
+"循环返回该值以供使用。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:549
+#: framework/option-tree/includes/ot-functions-docs-page.php:270
+msgid ""
+"The Text option type is used to save string values. For example, any "
+"optional or required text that is of reasonably short character length."
+msgstr ""
+"文本选项类型用于保存字符串值。例如，任何可选的或必需的文本是相当短的字符的长"
+"度。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:564
+#: framework/option-tree/includes/ot-functions-docs-page.php:273
+#, php-format
+msgid ""
+"The Textarea option type is a large string value used for custom code or "
+"text in the theme and has a WYSIWYG editor that can be filtered to change "
+"the how it is displayed. For example, you can filter %s, %s, %s, and %s."
+msgstr ""
+"文本域的选项类型是用于在主题自定义代码或文本大的字符串值，并有一个所见即所得"
+"的编辑器，可以过滤以改变它的显示方式。例如，您可以过滤%s，%s，%s和%s。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:578
+#: framework/option-tree/includes/ot-functions-admin.php:2234
+#: framework/option-tree/includes/ot-functions-docs-page.php:331
+msgid "Textarea Simple"
+msgstr "简易文本域"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:579
+#: framework/option-tree/includes/ot-functions-docs-page.php:332
+msgid ""
+"The Textarea Simple option type is a large string value used for custom code "
+"or text in the theme. The Textarea Simple does not have a WYSIWYG editor."
+msgstr ""
+"textarea的简单选项类型是用于在主题自定义代码或文本大的字符串值。 textarea的简"
+"单不具有所见即所得的编辑器。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:593
+#: framework/option-tree/includes/ot-functions-admin.php:2235
+#: framework/option-tree/includes/ot-functions-docs-page.php:347
+msgid "Textblock"
+msgstr "正文块"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:594
+#: framework/option-tree/includes/ot-functions-docs-page.php:348
+msgid ""
+"The Textblock option type is used only on the Theme Option page. It will "
+"allow you to create & display HTML, but has no title above the text block. "
+"You can then use the Textblock to add a more detailed set of instruction on "
+"how the options are used in your theme. You would never use this in your "
+"themes template files as it does not save a value."
+msgstr ""
+"TextBlock的选项类型只用于在主题选项页。它可以让你创建和显示HTML，但文本块上面"
+"没有标题。然后，您可以使用文本块添加更详细的一套指令上的选项是如何在你的主题"
+"使用。你永远不会使用这个在你的主题模板文件，因为它不保存的值。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:608
+#: framework/option-tree/includes/ot-functions-admin.php:2236
+#: framework/option-tree/includes/ot-functions-docs-page.php:350
+msgid "Textblock Titled"
+msgstr "正文块题目"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:609
+#: framework/option-tree/includes/ot-functions-docs-page.php:351
+msgid ""
+"The Textblock Titled option type is used only on the Theme Option page. It "
+"will allow you to create & display HTML, and has a title above the text "
+"block. You can then use the Textblock Titled to add a more detailed set of "
+"instruction on how the options are used in your theme. You would never use "
+"this in your themes template files as it does not save a value."
+msgstr ""
+"TextBlock的题为选项类型只用于在主题选项页。它可以让你创建和显示HTML，并具有文"
+"本块上面标题。那么你可以使用这本名为添加更详细的一套指令上的选项是如何在你的"
+"主题中使用的文本块。你永远不会使用这个在你的主题模板文件，因为它不保存的值。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:623
+#: framework/option-tree/includes/ot-functions-admin.php:2237
+#: framework/option-tree/includes/ot-functions-docs-page.php:353
+msgid "Typography"
+msgstr "字体排版"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:624
+#: framework/option-tree/includes/ot-functions-docs-page.php:354
+#, php-format
+msgid ""
+"The Typography option type is for adding typography styles to your theme "
+"either dynamically via the CSS option type above or manually with %s. The "
+"Typography option type has filters that allow you to remove fields or change "
+"the defaults. For example, you can filter %s to remove unwanted fields from "
+"all Background options or an individual one. You can also filter %s. These "
+"filters allow you to fine tune the select lists for your specific needs."
+msgstr ""
+"排版选项类型是通过CSS选项类型无论是动态添加的字体样式你的主题上或与%s手动。排"
+"版选项类型有过滤器，使您可以删除字段或更改默认设置。例如，您可以过滤%s到所有"
+"背景选项或某一个人删除不需要的字段。您还可以过滤%s。这些过滤器允许你微调选择"
+"列表您的特定需求。"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:638
+#: framework/option-tree/includes/ot-functions-admin.php:2238
+#: framework/option-tree/includes/ot-functions-docs-page.php:373
+msgid "Upload"
+msgstr "上传"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:639
+#: framework/option-tree/includes/ot-functions-docs-page.php:374
+#, php-format
+msgid ""
+"The Upload option type is used to upload any WordPress supported media. "
+"After uploading, users are required to press the \"%s\" button in order to "
+"populate the input with the URI of that media. There is one caveat of this "
+"feature. If you import the theme options and have uploaded media on one site "
+"the old URI will not reflect the URI of your new site. You will have to re-"
+"upload or %s any media to your new server and change the URIs if necessary."
+msgstr ""
+"The Upload option type is used to upload any WordPress supported media. "
+"After uploading, users are required to press the \"%s\" button in order to "
+"populate the input with the URI of that media. There is one caveat of this "
+"feature. If you import the theme options and have uploaded media on one site "
+"the old URI will not reflect the URI of your new site. You will have to re-"
+"upload or %s any media to your new server and change the URIs if necessary."
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:639
+#: framework/option-tree/includes/ot-functions-admin.php:652
+#: framework/option-tree/includes/ot-functions-docs-page.php:374
+#: framework/option-tree/includes/ot-functions-settings-page.php:170
+#: framework/option-tree/ot-loader.php:744
+msgid "Send to OptionTree"
+msgstr "发送到OptionTree"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:653
+msgid "Upload Attachment ID"
+msgstr "上传附件ID"
+
+#: framework/option-tree/assets/theme-mode/demo-theme-options.php:654
+#, php-format
+msgid ""
+"The Upload option type can also be saved as an attachment ID by adding %s to "
+"the class attribute."
+msgstr "上传的选项类型，也可以通过添加%s到类属性保存作为附件的ID。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:50
+#: framework/option-tree/includes/ot-functions-admin.php:51
+#: framework/option-tree/includes/ot-functions-admin.php:171
+#: framework/option-tree/includes/ot-functions-admin.php:195
+#: framework/option-tree/includes/ot-functions.php:284
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: framework/option-tree/includes/ot-functions-admin.php:56
+#: framework/option-tree/includes/ot-functions-admin.php:127
+#: framework/option-tree/includes/ot-functions-admin.php:222
+msgid "Theme Options updated."
+msgstr "主题设置已更新。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:57
+#: framework/option-tree/includes/ot-functions-admin.php:128
+#: framework/option-tree/includes/ot-functions-admin.php:223
+msgid "Theme Options reset."
+msgstr "主题设置已重置"
+
+#: framework/option-tree/includes/ot-functions-admin.php:58
+#: framework/option-tree/includes/ot-functions-settings-page.php:94
+#: framework/option-tree/includes/ot-functions-settings-page.php:133
+msgid "Save Changes"
+msgstr "保存所有更改"
+
+#: framework/option-tree/includes/ot-functions-admin.php:98
+msgid ""
+"The Theme Options UI Builder is being overridden by a custom file in your "
+"theme. Any changes you make via the UI Builder will not be saved."
+msgstr ""
+"主题选项UI生成器正在通过在主题自定义文件覆盖。通过UI生成器，你所做的任何更改"
+"将不会被保存。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:110
+#: framework/option-tree/includes/ot-functions-admin.php:111
+#: framework/option-tree/includes/ot-functions-docs-page.php:797
+msgid "OptionTree"
+msgstr "OptionTree"
+
+#: framework/option-tree/includes/ot-functions-admin.php:121
+#: framework/option-tree/includes/ot-functions-admin.php:122
+#: framework/option-tree/includes/ot-functions-admin.php:165
+#: framework/option-tree/includes/ot-functions-admin.php:189
+#: framework/option-tree/includes/ot-functions-docs-page.php:49
+msgid "Settings"
+msgstr "设置"
+
+#: framework/option-tree/includes/ot-functions-admin.php:129
+#: framework/option-tree/includes/ot-functions-admin.php:224
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: framework/option-tree/includes/ot-functions-admin.php:135
+msgid "Theme Options UI"
+msgstr "主题UI设置"
+
+#: framework/option-tree/includes/ot-functions-admin.php:139
+msgid "Import"
+msgstr "导入"
+
+#: framework/option-tree/includes/ot-functions-admin.php:143
+msgid "Export"
+msgstr "导出"
+
+#: framework/option-tree/includes/ot-functions-admin.php:147
+#: framework/option-tree/includes/ot-functions-admin.php:177
+#: framework/option-tree/includes/ot-functions-admin.php:201
+msgid "Layouts"
+msgstr "布局"
+
+#: framework/option-tree/includes/ot-functions-admin.php:153
+msgid "Theme Options UI Builder"
+msgstr "主题选项UI生成器"
+
+#: framework/option-tree/includes/ot-functions-admin.php:159
+msgid "Settings XML"
+msgstr "设置XML"
+
+#: framework/option-tree/includes/ot-functions-admin.php:183
+msgid "Settings PHP File"
+msgstr "设置PHP文件"
+
+#: framework/option-tree/includes/ot-functions-admin.php:207
+msgid "Layout Management"
+msgstr "布局管理"
+
+#: framework/option-tree/includes/ot-functions-admin.php:216
+#: framework/option-tree/includes/ot-functions-admin.php:217
+msgid "Documentation"
+msgstr "文档"
+
+#: framework/option-tree/includes/ot-functions-admin.php:230
+msgid "Creating Options"
+msgstr "创建选项"
+
+#: framework/option-tree/includes/ot-functions-admin.php:238
+msgid "Function References"
+msgstr "函数参考"
+
+#: framework/option-tree/includes/ot-functions-admin.php:242
+#: framework/option-tree/includes/ot-functions-admin.php:284
+#: framework/option-tree/includes/ot-functions-settings-page.php:366
+msgid "Theme Mode"
+msgstr "主题模式"
+
+#: framework/option-tree/includes/ot-functions-admin.php:246
+#: framework/option-tree/includes/ot-functions-admin.php:290
+msgid "Meta Boxes"
+msgstr "元数据"
+
+#: framework/option-tree/includes/ot-functions-admin.php:250
+msgid "Code Examples"
+msgstr "代码示例"
+
+#: framework/option-tree/includes/ot-functions-admin.php:254
+msgid "Layouts Overview"
+msgstr "布局总体一览"
+
+#: framework/option-tree/includes/ot-functions-admin.php:260
+msgid "Overview of available Theme Option fields."
+msgstr "可用主题选项字段概述。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:266
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr "按字母顺序和钩来过滤这些选项类型。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:272
+msgid "Function Reference:ot_get_option()"
+msgstr "函数参考：ot_get_option()"
+
+#: framework/option-tree/includes/ot-functions-admin.php:278
+msgid "Function Reference:get_option_tree()"
+msgstr "函数参考：get_option_tree()"
+
+#: framework/option-tree/includes/ot-functions-admin.php:296
+msgid "Code examples for front-end development."
+msgstr "代码示例，前端开发。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:302
+msgid "What's a layout anyhow?"
+msgstr "什么是布局？"
+
+#: framework/option-tree/includes/ot-functions-admin.php:502
+msgid "The Colorpicker only allows valid hexadecimal values."
+msgstr "在选色器只允许有效的十六进制值。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:653
+#: framework/option-tree/includes/ot-functions-option-types.php:257
+#: framework/option-tree/includes/ot-functions-option-types.php:2453
+msgid "Remove Media"
+msgstr "删除媒体"
+
+#: framework/option-tree/includes/ot-functions-admin.php:654
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr "您确定要重置为默认设置？"
+
+#: framework/option-tree/includes/ot-functions-admin.php:655
+msgid "You can't remove this! But you can edit the values."
+msgstr "你不能删除这个！但是，您可以编辑它的值。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:656
+msgid "Are you sure you want to remove this?"
+msgstr "你确定要移除这个项目？"
+
+#: framework/option-tree/includes/ot-functions-admin.php:657
+msgid "Are you sure you want to activate this layout?"
+msgstr "你确定要激活此布局？"
+
+#: framework/option-tree/includes/ot-functions-admin.php:658
+msgid "Sorry, you can't have settings three levels deep."
+msgstr "对不起，你不能设置三个层次。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:659
+#: framework/option-tree/includes/ot-functions-option-types.php:812
+msgid "Delete Gallery"
+msgstr "删除图集"
+
+#: framework/option-tree/includes/ot-functions-admin.php:660
+#: framework/option-tree/includes/ot-functions-option-types.php:813
+msgid "Edit Gallery"
+msgstr "编辑图集"
+
+#: framework/option-tree/includes/ot-functions-admin.php:661
+#: framework/option-tree/includes/ot-functions-option-types.php:820
+#: framework/post-meta/post-meta-fields.php:344
+msgid "Create Gallery"
+msgstr "创建图集"
+
+#: framework/option-tree/includes/ot-functions-admin.php:662
+msgid "Are you sure you want to delete this Gallery?"
+msgstr "你确定你要删除这个图集？"
+
+#: framework/option-tree/includes/ot-functions-admin.php:663
+msgid "Today"
+msgstr "今天"
+
+#: framework/option-tree/includes/ot-functions-admin.php:664
+msgid "Now"
+msgstr "现在"
+
+#: framework/option-tree/includes/ot-functions-admin.php:666
+msgid "Featured Image"
+msgstr "特色图像"
+
+#: framework/option-tree/includes/ot-functions-admin.php:716
+msgid "Option Tree"
+msgstr "选项树"
+
+#: framework/option-tree/includes/ot-functions-admin.php:853
+#: framework/theme-options.php:29
+msgid "General"
+msgstr "常规"
+
+#: framework/option-tree/includes/ot-functions-admin.php:859
+msgid "Sample Text Field Label"
+msgstr "示例文本字段标签"
+
+#: framework/option-tree/includes/ot-functions-admin.php:860
+msgid "Description for the sample text field."
+msgstr "示例文本字段的描述"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2102
+msgid "Settings updated."
+msgstr "设置已更新"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2106
+msgid "Settings could not be saved."
+msgstr "设置不能保存。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2114
+msgid "Settings Imported."
+msgstr "设置导入"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2118
+msgid "Settings could not be imported."
+msgstr "设置无法导入。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2125
+msgid "Data Imported."
+msgstr "数据已导入。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2129
+msgid "Data could not be imported."
+msgstr "数据不能导入。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2137
+msgid "Layouts Imported."
+msgstr "布局导入成功"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2141
+msgid "Layouts could not be imported."
+msgstr "布局无法导入。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2149
+msgid "Layouts Updated."
+msgstr "布局已更新。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2153
+msgid "Layouts could not be updated."
+msgstr "布局不能被更新。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2157
+msgid "Layouts have been deleted."
+msgstr "布局已被删除。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2163
+msgid "Layout activated."
+msgstr "布局已激活。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2206
+msgid "Color Picker"
+msgstr "选色器"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2225
+#: framework/option-tree/includes/ot-functions-docs-page.php:248
+msgid "Slider"
+msgstr "幻灯片"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2227
+#: framework/option-tree/includes/ot-functions-docs-page.php:254
+msgid "Tab"
+msgstr "选项卡"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2731
+msgid "Left Sidebar"
+msgstr "左侧边栏"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2736
+msgid "Right Sidebar"
+msgstr "右侧边栏"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2741
+msgid "Full Width (no sidebar)"
+msgstr "全宽（无侧边栏）"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2746
+msgid "Dual Sidebar"
+msgstr "双边栏"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2751
+msgid "Left Dual Sidebar"
+msgstr "左侧双边栏"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2756
+msgid "Right Dual Sidebar"
+msgstr "右侧双边栏"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2797
+#: framework/option-tree/includes/ot-functions-admin.php:2853
+#: framework/option-tree/includes/ot-functions-admin.php:4710
+#: framework/post-meta/post-meta-fields.php:320
+msgid "Link"
+msgstr "链接"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2924
+msgid "Enter the name of the social website."
+msgstr "输入社交网站名称"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2932
+msgid "Enter the text shown in the title attribute of the link."
+msgstr "输入该链接的title属性显示的文本。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:2938
+#, php-format
+msgid ""
+"Enter a link to the profile or page on the social website. Remember to add "
+"the %s part to the front of the link."
+msgstr "输入链接上的社交网站上的信息或页面。记得将%s添加到链接的前面。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3421
+msgid "edit"
+msgstr "编辑"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3422
+#: framework/option-tree/includes/ot-functions-admin.php:3490
+#: framework/option-tree/includes/ot-functions-admin.php:3491
+#: framework/option-tree/includes/ot-functions-admin.php:3653
+#: framework/option-tree/includes/ot-functions-admin.php:3654
+#: framework/option-tree/includes/ot-functions-admin.php:3719
+#: framework/option-tree/includes/ot-functions-admin.php:3720
+#: framework/option-tree/includes/ot-functions-admin.php:3847
+#: framework/option-tree/includes/ot-functions-admin.php:3848
+#: framework/option-tree/includes/ot-functions-admin.php:3981
+#: framework/option-tree/includes/ot-functions-admin.php:3982
+#: woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr "编辑"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3424
+#: framework/option-tree/includes/ot-functions-admin.php:3425
+#: framework/option-tree/includes/ot-functions-admin.php:3493
+#: framework/option-tree/includes/ot-functions-admin.php:3494
+#: framework/option-tree/includes/ot-functions-admin.php:3656
+#: framework/option-tree/includes/ot-functions-admin.php:3657
+#: framework/option-tree/includes/ot-functions-admin.php:3722
+#: framework/option-tree/includes/ot-functions-admin.php:3723
+#: framework/option-tree/includes/ot-functions-admin.php:3781
+#: framework/option-tree/includes/ot-functions-admin.php:3782
+#: framework/option-tree/includes/ot-functions-admin.php:3850
+#: framework/option-tree/includes/ot-functions-admin.php:3851
+#: framework/option-tree/includes/ot-functions-admin.php:3984
+#: framework/option-tree/includes/ot-functions-admin.php:3985
+msgid "Delete"
+msgstr "删除"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3431
+msgid ""
+"<strong>Section Title</strong>: Displayed as a menu item on the Theme "
+"Options page."
+msgstr "<strong>章节标题</strong> ：显示为主题选项页面上的菜单项。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3439
+msgid ""
+"<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+"underscores allowed."
+msgstr "<strong>章节ID：</strong>独有的小写字母数字字符串，允许下划线。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3500
+msgid ""
+"<strong>Label</strong>: Displayed as the label of a form element on the "
+"Theme Options page."
+msgstr "<strong>标签</strong> ：显示为主题选项页面上的表单元素的标签。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3508
+#: framework/option-tree/includes/ot-functions-admin.php:3737
+msgid ""
+"<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+"allowed."
+msgstr "<strong>ID：</strong>独有的小写字母数字字符串，允许下划线。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3516
+msgid ""
+"<strong>Type</strong>: Choose one of the available option types from the "
+"dropdown."
+msgstr "<strong>类型</strong> ：请从下拉列表中选择可用的类型之一。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3527
+msgid ""
+"<strong>Description</strong>: Enter a detailed description for the users to "
+"read on the Theme Options page, HTML is allowed. This is also where you "
+"enter content for both the Textblock & Textblock Titled option types."
+msgstr ""
+"<strong>说明</strong> ：输入用户阅读的主题选项页面上的详细描述，HTML是允许"
+"的。这也是在那里你输入两个文本块和文本块题为选项类型的内容。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3535
+msgid ""
+"<strong>Choices</strong>: This will only affect the following option types: "
+"Checkbox, Radio, Select & Select Image."
+msgstr ""
+"<strong>选择</strong> ：这只会影响以下选项类型：复选框，单选，选择与选 ​择图"
+"片。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3540
+msgid "Add Choice"
+msgstr "添加选项"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3546
+msgid ""
+"<strong>Settings</strong>: This will only affect the List Item option type."
+msgstr "<strong>设置</strong> ：这只会影响到列表项的选项类型。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3551
+#: framework/option-tree/includes/ot-functions-settings-page.php:93
+msgid "Add Setting"
+msgstr "添加设置"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3557
+msgid ""
+"<strong>Standard</strong>: Setting the standard value for your option only "
+"works for some option types. Read the <code>OptionTree->Documentation</code> "
+"for more information on which ones."
+msgstr ""
+"<strong>标准</strong> ：设定的标准值的选项只适用于某些选项类型。阅读<code>选"
+"项树->文档</code>上更多信息。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3565
+msgid ""
+"<strong>Rows</strong>: Enter a numeric value for the number of rows in your "
+"textarea. This will only affect the following option types: CSS, Textarea, & "
+"Textarea Simple."
+msgstr ""
+"<strong>行</strong> ：为中行的文本区域的数量输入一个数值。这只会影响以下选项"
+"类型：CSS，文本区域，与简单文本区域。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3573
+msgid ""
+"<strong>Post Type</strong>: Add a comma separated list of post type like "
+"'post,page'. This will only affect the following option types: Custom Post "
+"Type Checkbox, & Custom Post Type Select."
+msgstr ""
+"<strong>文章类型</strong> ：添加后型状“文章，页面”的逗号分隔的列表。这只会影"
+"响以下选项类型：自定义文章类型复选框，和自定义文章类型选择。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3581
+msgid ""
+"<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+"taxonomy like 'category,post_tag'. This will only affect the following "
+"option types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr ""
+"<strong>分类</strong> ：加入像“类别，标签”任何注册分类的一个逗号分隔的列表。"
+"这只会影响以下选项类型：分类复选框，和分类选择。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3589
+msgid ""
+"<strong>Min, Max, & Step</strong>: Add a comma separated list of options in "
+"the following format <code>0,100,1</code> (slide from <code>0-100</code> in "
+"intervals of <code>1</code>). The three values represent the minimum, "
+"maximum, and step options and will only affect the Numeric Slider option "
+"type."
+msgstr ""
+"<strong>最小值，最大值，及Step</strong> ：添加一个逗号分隔的选项列表中的格式"
+"如下<code>0,100,1</code> （从幻灯片<code>0-100</code>在间隔<code>1</"
+"code> ）。这三个值代表的最小，最大和Step选项，只会影响到数字滑块选项类型。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3597
+msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
+msgstr "<strong>CSS类</strong> ：添加和可选类此选项类型。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3605
+#, php-format
+msgid ""
+"<strong>Condition</strong>: Add a comma separated list (no spaces) of "
+"conditions in which the field will be visible, leave this setting empty to "
+"always show the field. In these examples, <code>value</code> is a "
+"placeholder for your condition, which can be in the form of %s."
+msgstr ""
+"<strong>条件</strong> ：加入条件的逗号分隔列表（无空格），其中外地将是可见"
+"的，留空则始终显示域。在这些例子中， <code>值</code>是一个占位符的情况下，其"
+"可以是在%s的形式。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3613
+msgid ""
+"<strong>Operator</strong>: Choose the logical operator to compute the result "
+"of the conditions."
+msgstr "<strong>运算符</strong> ：选择逻辑运算符来计算的条件的结果。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3617
+msgid "or"
+msgstr "或者"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3673
+msgid "Value"
+msgstr "值"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3683
+msgid "Image Source (Radio Image only)"
+msgstr "图片来源（仅Radio图像）"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3729
+msgid ""
+"<strong>Title</strong>: Displayed as a contextual help menu item on the "
+"Theme Options page."
+msgstr "<strong>标题</strong> ：显示为主题选项页面上的上下文帮助菜单项。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3745
+msgid ""
+"<strong>Content</strong>: Enter the HTML content about this contextual help "
+"item displayed on the Theme Option page for end users to read."
+msgstr ""
+"<strong>内容</strong> ：输入显示的主题选项页面上为最终用户阅读本上下文帮助项"
+"目HTML内容。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3776
+msgid "Layout"
+msgstr "布局"
+
+#: framework/option-tree/includes/ot-functions-admin.php:3778
+#: framework/option-tree/includes/ot-functions-admin.php:3779
+#: framework/plugin-register/class-tgm-plugin-activation.php:1326
+#: framework/plugin-register/class-tgm-plugin-activation.php:1413
+msgid "Activate"
+msgstr "激活"
+
+#: framework/option-tree/includes/ot-functions-admin.php:4136
+msgid "New Layout"
+msgstr "新布局"
+
+#: framework/option-tree/includes/ot-functions-admin.php:4719
+msgid "Link URL"
+msgstr "链接"
+
+#: framework/option-tree/includes/ot-functions-admin.php:4726
+msgid "Link Title"
+msgstr "链接标题"
+
+#: framework/option-tree/includes/ot-functions-admin.php:4756
+#: framework/post-meta/post-meta-fields.php:326
+msgid "Quote"
+msgstr "引用"
+
+#: framework/option-tree/includes/ot-functions-admin.php:4765
+msgid "Source Name (ex. author, singer, actor)"
+msgstr "源名称（例如，作者，歌手，演员）"
+
+#: framework/option-tree/includes/ot-functions-admin.php:4772
+msgid "Source URL"
+msgstr "来源网址"
+
+#: framework/option-tree/includes/ot-functions-admin.php:4779
+msgid "Source Title (ex. book, song, movie)"
+msgstr "来源标题（例如，图书，歌曲，电影）"
+
+#: framework/option-tree/includes/ot-functions-admin.php:4786
+msgid "Source Date"
+msgstr "来源日期"
+
+#: framework/option-tree/includes/ot-functions-admin.php:4816
+msgid "Video"
+msgstr "视频"
+
+#: framework/option-tree/includes/ot-functions-admin.php:4825
+#, php-format
+msgid ""
+"Embed video from services like Youtube, Vimeo, or Hulu. You can find a list "
+"of supported oEmbed sites in the %1$s. Alternatively, you could use the "
+"built-in %2$s shortcode."
+msgstr ""
+"嵌入视频的服务，如YouTube，Vimeo的，或Hulu。您可以在%1$s的支持oEmbed网站的列"
+"表。或者，你可以使用内置%2$s简码。"
+
+#: framework/option-tree/includes/ot-functions-admin.php:4825
+#: framework/option-tree/includes/ot-functions-admin.php:4864
+msgid "Wordpress Codex"
+msgstr "Wordpress Codex"
+
+#: framework/option-tree/includes/ot-functions-admin.php:4855
+msgid "Audio"
+msgstr "音频"
+
+#: framework/option-tree/includes/ot-functions-admin.php:4864
+#, php-format
+msgid ""
+"Embed audio from services like SoundCloud and Rdio. You can find a list of "
+"supported oEmbed sites in the %1$s. Alternatively, you could use the built-"
+"in %2$s shortcode."
+msgstr ""
+"嵌入音频的服务，如SoundCloud的和RDIO。您可以在%1$s的支持oEmbed网站的列表。或"
+"者，你可以使用内置%2$s简码。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:30
+msgid ""
+"The Label field should be a short but descriptive block of text 100 "
+"characters or less with no HTML."
+msgstr "该标签需要短而详细必须要在100个字之内并且没有HTML"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:32
+#: framework/theme-options.php:766 framework/theme-options.php:1403
+msgid "ID"
+msgstr "ID"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:33
+msgid ""
+"The ID field is a unique alphanumeric key used to differentiate each theme "
+"option (underscores are acceptable). Also, the plugin will change all text "
+"you write in this field to lowercase and replace spaces and special "
+"characters with an underscore automatically."
+msgstr ""
+"ID字段是用于区分每个主题选项（下划线是可接受的）的唯一的字母数字键。此外，该"
+"插件将改变你写的为小写，并用下划线自动替换空格和特殊字符的所有文本。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:36
+msgid ""
+"You are required to choose one of the supported option types when creating a "
+"new option. Here is a list of the available option types. For more "
+"information about each type click the <code>Option Types</code> tab to the "
+"left."
+msgstr ""
+"你必须创建一个新的选择时，选择所支持的选项类型之一。下面是可用的选项类型的列"
+"表。有关每种类型的更多信息，请点击该<code>选项类型</code>选项卡左侧。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:44
+msgid ""
+"Enter a detailed description for the users to read on the Theme Options "
+"page, HTML is allowed. This is also where you enter content for both the "
+"Textblock & Textblock Titled option types."
+msgstr ""
+"输入用户阅读的主题选项页面上的详细描述，HTML是允许的。这也是在那里你输入两个"
+"文本块和文本块题为选项类型的内容。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:46
+msgid "Choices"
+msgstr "选择"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:47
+msgid ""
+"Click the \"Add Choice\" button to add an item to the choices array. This "
+"will only affect the following option types: Checkbox, Radio, Select & "
+"Select Image."
+msgstr ""
+"点击“添加选项”按钮，将项目添加到选择阵列。这只会影响以下选项类型：复选框，单"
+"选，选择与选择图片。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:50
+msgid ""
+"Click the \"Add Setting\" button found inside a newly created setting to add "
+"an item to the settings array. This will only affect the List Item type."
+msgstr "点击“添加设置”中新创建的设置将项目添加到阵列的设置找到按钮。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:52
+msgid "Standard"
+msgstr "标准"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:53
+msgid ""
+"Setting the standard value for your option only works for some option types. "
+"Those types are one that have a single string value saved to them and not an "
+"array of values."
+msgstr ""
+"设定的标准值的选项只适用于某些选项类型。这些类型是一个具有保存到他们的单个字"
+"符串值，而不是值的数组。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:55
+msgid "Rows"
+msgstr "行"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:56
+msgid ""
+"Enter a numeric value for the number of rows in your textarea. This will "
+"only affect the following option types: CSS, Textarea, & Textarea Simple."
+msgstr ""
+"输入的行中的文本区域的数目的数值。这只会影响以下选项类型：CSS，文本区域，与简"
+"单文本域。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:58
+msgid "Post Type"
+msgstr "文章类型"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:59
+msgid ""
+"Add a comma separated list of post type like <code>post,page</code>. This "
+"will only affect the following option types: Custom Post Type Checkbox, & "
+"Custom Post Type Select. Below are the default post types available with "
+"WordPress and that are also compatible with OptionTree. You can also add "
+"your own custom <code>post_type</code>. At this time <code>any</code> does "
+"not seem to return results properly and is something I plan on looking into."
+msgstr ""
+"加入一个逗号分隔的列表<code>文章,页面</code> 。这只会影响以下选项类型：自定义"
+"文章类型复选框，和自定义文章类型选择。下面是提供的默认文章类型与WordPress，并"
+"且还与OptionTree兼容。您也可以添加自己的自定义<code>文章类型</code> 。这时"
+"<code>所有</code>似乎并不正确返回结果，亦是我计划寻找到。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:67
+msgid "Taxonomy"
+msgstr "分类"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:68
+msgid ""
+"Add a comma separated list of any registered taxonomy like <code>category,"
+"post_tag</code>. This will only affect the following option types: Taxonomy "
+"Checkbox, & Taxonomy Select."
+msgstr ""
+"添加一个逗号分隔像任何注册分类列表<code>类别,标签</code> 。这只会影响以下选项"
+"类型：分类复选框，和分类选择。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:70
+msgid "Min, Max, & Step"
+msgstr "最小值，最大值，与步骤"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:71
+msgid ""
+"Add a comma separated list of options in the following format <code>0,100,1</"
+"code> (slide from <code>0-100</code> in intervals of <code>1</code>). The "
+"three values represent the minimum, maximum, and step options and will only "
+"affect the Numeric Slider option type."
+msgstr ""
+"添加一个逗号分隔的选项列表中的格式如下<code>0,100,1</code> （从幻灯片"
+"<code>0-100</code>在间隔<code>1</code> ）。这三个值代表的最小，最大和步骤选"
+"项，只会影响到数字滑块选项类型。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:73
+msgid "CSS Class"
+msgstr "CSS类"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:74
+msgid "Add and optional class to any option type."
+msgstr "添加和可选的类的任何选项类型。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:76
+msgid "Condition"
+msgstr "条件"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:77
+#, php-format
+msgid ""
+"Add a comma separated list (no spaces) of conditions in which the field will "
+"be visible, leave this setting empty to always show the field. In these "
+"examples, %s is a placeholder for your condition, which can be in the form "
+"of %s."
+msgstr ""
+"添加条件的逗号分隔列表（无空格），其中外地将是可见的，留空则始终显示领域。在"
+"这些实施例中，%s是一个占位符的情况下，其可以是在%s的形式。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:79
+msgid "Operator"
+msgstr "运算符"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:80
+#, php-format
+msgid ""
+"Choose the logical operator to compute the result of the conditions. Your "
+"options are %s and %s."
+msgstr "选择逻辑运算符来计算的条件的结果。你的选择是%s和%s。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:130
+msgid "Input"
+msgstr "输入"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:136
+msgid "Output"
+msgstr "输出"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:160
+msgid ""
+"The List Item option type replaced the Slider option type and allows for a "
+"great deal of customization. You can add settings to the List Item and those "
+"settings will be displayed to the user when they add a new List Item. "
+"Typical use is for creating sliding content or blocks of code for custom "
+"layouts."
+msgstr ""
+"列表项选项类型取代了滑块选项类型，并允许大量的定制。您可以添加设置列表项，当"
+"他们增加一个新的列表项的设置将被显示给用户。典型的应用是创建的代码自定义布局"
+"滑动内容或块。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:165
+#, php-format
+msgid ""
+"Example filter to add new units to the Measurement option type. Added to %s."
+msgstr "过滤器例子，新的单位加入到测量选件的类型。添加到%s"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:178
+msgid ""
+"Example filter to completely change the units in the Measurement option "
+"type. Added to <code>functions.php</code>."
+msgstr ""
+"过滤器例子，新的单位加入到测量选件的类型。添加到<code>functions.php</code>."
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:217
+msgid ""
+"This example executes the <code>ot_radio_images</code> filter on layout "
+"images attached to the <code>my_radio_images</code> field. Added to "
+"<code>functions.php</code>."
+msgstr ""
+"这个例子执行<code>ot_radio_images</code>上附着的布局图像过滤"
+"<code>my_radio_images</code>领域。加入<code>functions.php</code> 。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:249
+msgid ""
+"The Slider option type is technically deprecated. Use the List Item option "
+"type instead, as it's infinitely more customizable. Typical use is for "
+"creating sliding image content."
+msgstr ""
+"滑块选项类型在技术上已过时。使用列表项选项类型，而不是，因为它是无限的更加个"
+"性化。典型用途是用于创建滑动图像内容。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:255
+msgid ""
+"The Tab option type will break a section or metabox into tabbed content."
+msgstr "标签选项类型将打破一节或metabox到标签的内容。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:275
+msgid ""
+"Example filters to alter the Textarea option type. Added to <code>functions."
+"php</code>."
+msgstr "例如过滤改变textarea的选项类型。加入<code>functions.php</code> 。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:277
+msgid ""
+"This example keeps WordPress from executing the <code>wpautop</code> filter "
+"on the line breaks. The default is <code>true</code> which means it wraps "
+"line breaks with an HTML <code>p</code> tag."
+msgstr ""
+"这个例子不断的WordPress从执行<code>wpautop</code>过滤器上的换行符。默认值是"
+"<code>true</code> ，这意味着它包装换行与HTML <code>p</code>标记。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:290
+msgid ""
+"This example keeps WordPress from executing the <code>media_buttons</code> "
+"filter on the textarea WYSIWYG. The default is <code>true</code> which means "
+"show the buttons."
+msgstr ""
+"这个例子不断的WordPress从执行<code>media_buttons</code>过滤器textarea的所见即"
+"所得。默认值是<code>true</code> ，这意味着显示的按钮。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:303
+msgid ""
+"This example keeps WordPress from executing the <code>tinymce</code> filter "
+"on the textarea WYSIWYG. The default is <code>true</code> which means show "
+"the tinymce."
+msgstr ""
+"这个例子不断的WordPress从执行<code>tinymce</code>过滤器上的textarea的所见即所"
+"得。默认值是<code>true</code> ，这意味着显示TinyMCE的。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:316
+msgid ""
+"This example alters the <code>quicktags</code> filter on the textarea "
+"WYSIWYG. The default is <code>array( 'buttons' => 'strong,em,link,block,del,"
+"ins,img,ul,ol,li,code,spell,close' )</code> which means show those "
+"quicktags. It also means you can filter in your own custom quicktags."
+msgstr ""
+"这个例子改变<code>quicktags</code>上textarea的所见即所得的过滤器。默认值是"
+"<code>array( 'buttons' => 'strong,em,link,block,del,ins,img,ul,ol,li,code,"
+"spell,close'; )</code>这意味着显示这些quicktags。这也意味着你可以过滤自己的自"
+"定义quicktags。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:334
+#, php-format
+msgid ""
+"This example tells WordPress to execute the %s filter on the line breaks. "
+"The default is %s which means it does not wraps line breaks with an HTML %s "
+"tag. Added to %s."
+msgstr ""
+"这个例子告诉WordPress的执行%s的过滤器上的换行符。默认为%s，这意味着它与HTML%s"
+"的标记没有包装换行符。添加到%s。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:356
+msgid ""
+"This example would filter <code>ot_recognized_font_families</code> to build "
+"your own font stack. Added to <code>functions.php</code>."
+msgstr ""
+"这个例子将过滤<code>ot_recognized_font_families</code>建立你自己的字体堆栈。"
+"加入<code>functions.php</code> 。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:406
+msgid ""
+"This function returns a value from the \"option_tree\" array of saved values "
+"or the default value supplied. The returned value would be mixed. Meaning it "
+"could be a string, integer, boolean, or array."
+msgstr ""
+"这个功能从保存的值的“option_tree”数组或提供的默认值返回一个值。返回的值将被混"
+"合。这意味着它可能是一个字符串，整数，布尔，或数组。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:408
+#: framework/option-tree/includes/ot-functions-docs-page.php:458
+msgid "Usage"
+msgstr "使用量"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:412
+#: framework/option-tree/includes/ot-functions-docs-page.php:462
+msgid "Parameters"
+msgstr "参数"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:416
+#: framework/option-tree/includes/ot-functions-docs-page.php:420
+#: framework/option-tree/includes/ot-functions-docs-page.php:466
+msgid "string"
+msgstr "字符串"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:416
+#: framework/option-tree/includes/ot-functions-docs-page.php:466
+msgid "required"
+msgstr "必需"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:416
+msgid "Enter the options unique identifier."
+msgstr "输入选项的唯一标识符。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:416
+#: framework/option-tree/includes/ot-functions-docs-page.php:466
+msgid "Default:"
+msgstr "默认："
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:416
+#: framework/option-tree/includes/ot-functions-docs-page.php:420
+#: framework/option-tree/includes/ot-functions-docs-page.php:466
+#: framework/option-tree/includes/ot-functions-docs-page.php:470
+msgid "None"
+msgstr "无"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:420
+#: framework/option-tree/includes/ot-functions-docs-page.php:470
+#: framework/option-tree/includes/ot-functions-docs-page.php:474
+#: framework/option-tree/includes/ot-functions-docs-page.php:478
+#: framework/option-tree/includes/ot-functions-docs-page.php:482
+msgid "optional"
+msgstr "可选"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:420
+msgid ""
+"Enter a default return value. This is just incase the request returns null."
+msgstr "输入一个默认的返回值。万一请求返回null。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:450
+msgid ""
+"This function has been deprecated. That means it has been replaced by a new "
+"function or is no longer supported, and may be removed from future versions. "
+"All code that uses this function should be converted to use its replacement."
+msgstr ""
+"此功能已被否决。这意味着它已经被替换为一个新的功能或不再支持，并且可以从将来"
+"的版本中删除。使用该函数的所有代码应被转换为使用其更换。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:452
+msgid "Use"
+msgstr "使用"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:452
+msgid "instead"
+msgstr "代替"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:456
+msgid ""
+"This function returns, or echos if asked, a value from the \"option_tree\" "
+"array of saved values."
+msgstr "该函数返回，或者回声如果问，从保存的值的“option_tree”数组的值。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:466
+msgid "Enter a unique Option Key to get a returned value or array."
+msgstr "输入唯一的选项键来得到一个返回值或数组。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:470
+msgid "array"
+msgstr "数组"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:470
+msgid "Used to cut down on database queries in template files."
+msgstr "用于减少在模板文件数据库查询。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:474
+#: framework/option-tree/includes/ot-functions-docs-page.php:478
+msgid "boolean"
+msgstr "布尔值"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:474
+msgid "Echo the output."
+msgstr "呼应输出。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:478
+msgid "Used to indicate the $item_id is an array of values."
+msgstr "用于指示$item_id是值的数组。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:482
+msgid "integer"
+msgstr "整数"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:482
+msgid ""
+"Numeric offset key for the $item_id array, -1 will return all values (an "
+"array starts at 0)."
+msgstr "数字Offset为$item_id阵列，-1将返回所有值（数组从0开始）。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:510
+msgid ""
+"If you're using the plugin version of OptionTree it is highly recommended to "
+"include a <code>function_exists</code> check in your code, as described in "
+"the examples below. If you've integrated OptionTree directly into your "
+"themes root directory, you will <strong>not</strong> need to wrap your code "
+"with <code>function_exists</code>, as you're guaranteed to have the "
+"<code>ot_get_option()</code> function available."
+msgstr ""
+"如果你正在使用OptionTree的插件版本，强烈建议包括<code>function_exists</code>"
+"检查你的代码，如下面的例子说明。如果你已经直接集成到OptionTree你的主题的根目"
+"录下，你<strong>不会</strong>需要包装你的代码<code>function_exists</code> ，"
+"因为你保证有<code>ot_get_option()</code>函数可用。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:512
+msgid "String Examples"
+msgstr "字符串例子"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:514
+msgid "Returns the value of <code>test_input</code>."
+msgstr "返回的值<code>test_input</code> 。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:520
+msgid ""
+"Returns the value of <code>test_input</code>, but also has a default value "
+"if it returns empty."
+msgstr "返回的值<code>test_input</code> ，但如果它返回空，也有一个默认值，"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:526
+msgid "Array Examples"
+msgstr "数组的例子"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:528
+msgid ""
+"Assigns the value of <code>navigation_ids</code> to the variable <code>$ids</"
+"code>. It then echos an unordered list of links (navigation) using "
+"<code>wp_list_pages()</code>."
+msgstr ""
+"分配的值<code>navigation_ids</code>给变量<code>$ids</code> 。然后输出无序列表"
+"（导航） <code>wp_list_pages()</code>"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:548
+msgid ""
+"The next two examples demonstrate how to use the <strong>Measurement</"
+"strong> option type. The Measurement option type is an array with two key/"
+"value pairs. The first is the value of measurement and the second is the "
+"unit of measurement."
+msgstr ""
+"接下来的两个示例演示了如何使用<strong>测量</strong>选件的类型。测量选项类型是"
+"有两个键/值对的数组。第一是测定的值，第二个是测量单位。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:574
+msgid "This example displays a very basic slider loop."
+msgstr "这个例子显示一个非常基本的滑环。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:619
+msgid "It's Super Simple"
+msgstr "这是Super Simple"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:621
+msgid ""
+"Layouts make your theme awesome! With theme options data that you can save/"
+"import/export you can package themes with different color variations, or "
+"make it easy to do A/B testing on text and so much more. Basically, you save "
+"a snapshot of your data as a layout."
+msgstr ""
+"布局使你的主题美观！随着主题选项的数据可以保存/导入/导出，你可以用不同的颜色"
+"的变化打包主题，或使之容易做A / B测试上的文字和更多。基本上，你的数据的快照保"
+"存为一个布局。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:623
+msgid ""
+"Once you have created all your different layouts, or theme variations, you "
+"can save them to a separate text file for repackaging with your theme. "
+"Alternatively, you could just make different variations for yourself and "
+"change your theme with the click of a button, all without deleting your "
+"previous options data."
+msgstr ""
+"一旦你创建了所有不同的布局，或主题的变化，你可以将它们保存到一个单独的文本文"
+"件与你的主题重新包装。或者，你可能只是做出不同的变化为自己和改变你的主题一个"
+"按钮的点击，都没有删除以前的选择数据。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:625
+msgid ""
+" Adding a layout is ridiculously easy, follow these steps and you'll be on "
+"your way to having a WordPress super theme."
+msgstr ""
+"添加布局可容易，请按照下列步骤，你会用自己的方式建立一个WordPress主题。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:627
+msgid "For Developers"
+msgstr "给开发者"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:629
+#: framework/option-tree/includes/ot-functions-docs-page.php:658
+msgid "Creating a Layout"
+msgstr "创建布局"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:631
+#: framework/option-tree/includes/ot-functions-docs-page.php:638
+#: framework/option-tree/includes/ot-functions-docs-page.php:644
+msgid "Go to the <code>OptionTre->Settings->Layouts</code> tab."
+msgstr "转至<code>OptionTree->设置->布局</code>选项卡。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:632
+msgid ""
+"Enter a name for your layout in the text field and hit \"Save Layouts\", "
+"you've created your first layout."
+msgstr "在文本字段中输入布局名称，并点击“保存布局”，您已经创建了第一个布局。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:633
+#: framework/option-tree/includes/ot-functions-docs-page.php:662
+msgid "Adding a new layout is as easy as repeating the steps above."
+msgstr "添加一个新的布局跟重复上面的步骤一样简单。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:636
+#: framework/option-tree/includes/ot-functions-docs-page.php:665
+msgid "Activating a Layout"
+msgstr "激活布局"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:639
+msgid "Click on the activate layout button in the actions list."
+msgstr "点击在操作列表中的激活布局按钮。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:642
+#: framework/option-tree/includes/ot-functions-docs-page.php:671
+msgid "Deleting a Layout"
+msgstr "删除布局"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:645
+msgid "Click on the delete layout button in the actions list."
+msgstr "点击在操作列表中删除布局按钮。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:648
+#: framework/option-tree/includes/ot-functions-docs-page.php:676
+msgid "Edit Layout Data"
+msgstr "编辑布局数据"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:650
+#: framework/option-tree/includes/ot-functions-docs-page.php:660
+#: framework/option-tree/includes/ot-functions-docs-page.php:667
+msgid "Go to the <code>Appearance->Theme Options</code> page."
+msgstr "转至<code>外观->主题选项</code>页。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:651
+#: framework/option-tree/includes/ot-functions-docs-page.php:679
+msgid ""
+"Modify and save your theme options and the layout will be updated "
+"automatically."
+msgstr "修改并保存你的主题的选择和布局将自动更新。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:652
+#: framework/option-tree/includes/ot-functions-docs-page.php:680
+msgid ""
+"Saving theme options data will update the currently active layout, so before "
+"you start saving make sure you want to modify the current layout."
+msgstr ""
+"保存主题选项数据将更新当前积极布局，所以你开始储蓄之前，请务必要修改当前的布"
+"局。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:653
+msgid ""
+"If you want to edit a new layout, first create it then save your theme "
+"options."
+msgstr "如果你想编辑一个新的布局，首先创建它，然后保存您的主题选项。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:656
+msgid "End-Users Mode"
+msgstr "最终用户模式"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:661
+msgid ""
+"Enter a name for your layout in the text field and hit \"New Layout\", "
+"you've created your first layout."
+msgstr "在文本字段布局输入一个名称，然后点击“新布局”，您已经创建了第一个布局。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:668
+msgid ""
+"Choose a layout from the select list and click the \"Activate Layout\" "
+"button."
+msgstr "然后从列表中选择一个布局，然后单击“激活布局”按钮。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:673
+msgid "End-Users mode does not allow deleting layouts."
+msgstr "最终用户模式不允许删除布局。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:678
+msgid "Go to the <code>Appearance->Theme Options</code> tab."
+msgstr "转至<code>外观->主题选项</code>页。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:709
+#: framework/option-tree/includes/ot-functions-docs-page.php:791
+msgid "How-to-guide"
+msgstr "如何"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:711
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree's "
+"built in Meta Box API. In the code below I'll show you a basic demo of how "
+"to create your very own custom meta box using any number of the option types "
+"you have at your disposal. If you would like to see some demo code, there is "
+"a directory named <code>theme-mode</code> inside the <code>assets</code> "
+"directory that contains a file named <code>demo-meta-boxes.php</code> you "
+"can reference."
+msgstr ""
+"还有，你需要采取以使用内置的元包API OptionTree的几个简单的步骤。在下面的代码"
+"我会告诉你如何使用任意数量的您在您的处置的选项类型来创建你自己定制的元包一个"
+"基本的演示。如果你想看到一些演示代码，有一个名为目录<code>theme-mode</code>里"
+"面<code>assets</code>包含一个文件名 ​​为目录<code>demo-meta-boxes.php</code> ，"
+"你可以参考一下。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:713
+msgid ""
+"It's important to note that Meta Boxes do not support WYSIWYG editors at "
+"this time and if you set one of your options to Textarea it will "
+"automatically revert to a Textarea Simple until a valid solution is found. "
+"WordPress released this statement regarding the wp_editor() function:"
+msgstr ""
+"重要的是要注意的是元框不支持所见即所得的编辑器，在这个时候，如果你设置你的选"
+"项之一，文本域它会自动恢复到一个简文本域单，直到一个有效的解决方案中。 "
+"WordPress的发表这一声明对于wp_editor()函数："
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:715
+msgid ""
+"Once instantiated, the WYSIWYG editor cannot be moved around in the DOM. "
+"What this means in practical terms, is that you cannot put it in meta-boxes "
+"that can be dragged and placed elsewhere on the page."
+msgstr ""
+"一旦实例化，所见即所得的编辑器不能被围在DOM移动。这意味着在实际应用中，是你不"
+"能把它的元框，可以拖动，并在页面上放置其他地方。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:717
+msgid "Create and include your custom meta boxes file."
+msgstr "创建并包括您的自定义元箱文件。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:719
+msgid ""
+"Create a file and name it anything you want, maybe <code>meta-boxes.php</"
+"code>."
+msgstr ""
+"创建一个文件并将其命名为任何你想要的，或许<code>meta-boxes.php</code> 。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:720
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>meta-boxes.php</code> into which will help keep you "
+"file structure nice and tidy."
+msgstr ""
+"还有，你可能会想创建一个名为目录<code>includes</code>把你的<code>meta-boxes."
+"php</code>到这将有助于保持你的文件结构，漂亮，整洁。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:721
+#: framework/option-tree/includes/ot-functions-docs-page.php:821
+msgid "Add the following code to your <code>functions.php</code>."
+msgstr "下面的代码添加到您<code>functions.php</code> 。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:731
+msgid ""
+"Add a variation of the following code to your <code>meta-boxes.php</code>. "
+"You'll obviously need to fill it in with all your custom array values. It's "
+"important to note here that we use the <code>admin_init</code> filter "
+"because if you were to call the <code>ot_register_meta_box</code> function "
+"before OptionTree was loaded the sky would fall on your head."
+msgstr ""
+"添加以下代码的变化到你的<code>meta-boxes.php</code> 。你显然需要与所有的自定"
+"义数组值填充它。重要的是要在这里指出，我们使用<code>admin_init</code>过滤器，"
+"因为如果你要调用<code>ot_register_meta_box</code>功能在OptionTree加载之前。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:793
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree as "
+"a theme included module. In the code below I'll show you a basic demo of how "
+"to include the entire plugin as a module, which will allow you to have the "
+"most up-to-date version of OptionTree without ever needing to hack the core "
+"of the plugin. If you would like to see some demo code, there is a directory "
+"named <code>theme-mode</code> inside the <code>assets</code> directory that "
+"contains a file named <code>demo-theme-options.php</code> you can reference."
+msgstr ""
+"There are a few simple steps you need to take in order to use OptionTree as "
+"a theme included module. In the code below I'll show you a basic demo of how "
+"to include the entire plugin as a module, which will allow you to have the "
+"most up-to-date version of OptionTree without ever needing to hack the core "
+"of the plugin. If you would like to see some demo code, there is a directory "
+"named <code>theme-mode</code> inside the <code>assets</code> directory that "
+"contains a file named <code>demo-theme-options.php</code> you can reference."
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:795
+msgid "Step 1: Include the plugin & turn on theme mode."
+msgstr "第1步：包括插件和打开的主题模式。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:797
+#, php-format
+msgid "Download the latest version of %s and unarchive the %s directory."
+msgstr "下载%s的最新版本，并解档%s的目录。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:798
+#, php-format
+msgid ""
+"Put the %s directory in the root of your theme. For example, the server path "
+"would be %s."
+msgstr "把%s目录在你的主题的根。例如，服务器路径将是%s。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:799
+#, php-format
+msgid "Add the following code to the beginning of your %s."
+msgstr "下面的代码添加到您的%s的开始。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:813
+#, php-format
+msgid ""
+"For a list of all the OptionTree UI display filters refer to the %s file "
+"found in the %s directory of this plugin. This file is the starting point "
+"for developing themes with Theme Mode."
+msgstr ""
+"对于所有的OptionTree UI显示过滤器列表请参考这个插件的%s目录中的%s文件。此文件"
+"是起步，发展的主题与主题模式。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:815
+msgid ""
+"You now have OptionTree built into your theme and anytime an update is "
+"available replace the old version with the new one."
+msgstr "你现在有OptionTree内置到你的主题，并随时有可用的更新与更换新的旧版本。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:817
+msgid "Step 2: Create Theme Options without using the UI Builder."
+msgstr "第2步：创建主题选项不使用UI生成器。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:819
+msgid ""
+"Create a file and name it anything you want, maybe <code>theme-options.php</"
+"code>, or use the built in file export to create it for you. Remember, you "
+"should always check the file for errors before including it in your theme."
+msgstr ""
+"创建一个文件并将其命名为任何你想要的，也许<code>theme-options.php</code> ，或"
+"者使用内置的文件导出到为您创建它。请记住，你应该总是包括它在你的主题之前检查"
+"错误文件。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:820
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>theme-options.php</code> into which will help keep "
+"you file structure nice and tidy."
+msgstr ""
+"还有，你可能会想创建一个名为目录<code>includes</code>把你的<code>theme-"
+"options.php</code>到这将有助于保持你的文件结构，漂亮，整洁。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:831
+msgid ""
+"Add a variation of the following code to your <code>theme-options.php</"
+"code>. You'll obviously need to fill it in with all your custom array values "
+"for contextual help (optional), sections (required), and settings (required)."
+msgstr ""
+"添加以下代码的变化，以您的<code>theme-options.php</code> 。你显然需要与上下文"
+"帮助（可选）所有的自定义数组值填充它，切片（需要），并设置（必需）。"
+
+#: framework/option-tree/includes/ot-functions-docs-page.php:834
+msgid ""
+"The code below is a boilerplate to get your started. For a full list of the "
+"available option types click the \"Option Types\" tab above. Also a quick "
+"note, you don't need to put OptionTree in theme mode to manually create "
+"options but you will want to hide the docs and settings as each time you "
+"load the admin area the settings be written over with the code below if "
+"they've changed in any way. However, this ensures your settings do not get "
+"tampered with by the end-user."
+msgstr ""
+"下面的代码是让你开始一个样板。对于可用的选项类型的完整列表，单击上方的“选项类"
+"型”选项卡。另外一个快速的注意，你不需要把OptionTree的主题模式，手动创建的选"
+"择，但你要隐藏的每次加载管理区的设置被写入了与他们是否下面的代码的文档和设置"
+"已经以任何方式改变。然而，这将确保您的设置不要被最终用户篡改。"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:46
+msgid "Sorry, this function does not exist"
+msgstr "对不起，此功能不存在"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:134
+msgid "background-repeat"
+msgstr "背景重复"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:152
+msgid "background-attachment"
+msgstr "背景附件"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:171
+msgid "background-position"
+msgstr "背景位置"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:224
+msgid "background-size"
+msgstr "背景尺寸"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:241
+#: framework/option-tree/includes/ot-functions-option-types.php:2437
+msgid "Add Media"
+msgstr "添加媒体"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:315
+#: framework/option-tree/includes/ot-functions-option-types.php:369
+msgid "No Categories Found"
+msgstr "未找到分类"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:364
+#: framework/option-tree/includes/ot-functions-option-types.php:625
+#: framework/option-tree/includes/ot-functions-option-types.php:1167
+#: framework/option-tree/includes/ot-functions-option-types.php:1278
+#: framework/option-tree/includes/ot-functions-option-types.php:1881
+#: framework/option-tree/includes/ot-functions-option-types.php:1996
+msgid "Choose One"
+msgstr "-- 选择一个 --"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:573
+#: framework/option-tree/includes/ot-functions-option-types.php:631
+#: framework/option-tree/includes/ot-functions-option-types.php:1229
+#: framework/option-tree/includes/ot-functions-option-types.php:1284
+msgid "No Posts Found"
+msgstr "未找到文章"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:892
+#: framework/option-tree/includes/ot-functions-option-types.php:1583
+#: framework/option-tree/includes/ot-functions-option-types.php:1748
+msgid "Add New"
+msgstr "添加"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:895
+#: framework/option-tree/includes/ot-functions-option-types.php:1586
+#: framework/option-tree/includes/ot-functions-option-types.php:1751
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr "您可以重新排序与拖放，保存后的顺序将更新。"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1046
+msgid "On"
+msgstr "开"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1050
+msgid "Off"
+msgstr "关"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1118
+#: framework/option-tree/includes/ot-functions-option-types.php:1173
+msgid "No Pages Found"
+msgstr "页面没有找到"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1506
+msgid "Choose Sidebar"
+msgstr "选择侧边栏"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1511
+msgid "No Sidebars"
+msgstr "没有侧边栏"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1619
+#: framework/theme-options.php:707
+msgid "Facebook"
+msgstr "Facebook"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1624
+#: framework/theme-options.php:712
+msgid "Twitter"
+msgstr "Twitter"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1629
+#: framework/theme-options.php:717
+msgid "Google+"
+msgstr "Google+"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1634
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1639
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1649
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1654
+msgid "Github"
+msgstr "Github"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1659
+msgid "Forrst"
+msgstr "Forrst"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1664
+msgid "Digg"
+msgstr "Digg"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1669
+msgid "Delicious"
+msgstr "Delicious"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1674
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1679
+msgid "Skype"
+msgstr "Skype"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1684
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1694
+msgid "Flickr"
+msgstr "Flickr"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1699
+msgid "VK.com"
+msgstr "VK.com"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1832
+#: framework/option-tree/includes/ot-functions-option-types.php:1886
+msgid "No Tags Found"
+msgstr "找不到标签"
+
+#: framework/option-tree/includes/ot-functions-option-types.php:1944
+#: framework/option-tree/includes/ot-functions-option-types.php:2001
+msgid "No Taxonomies Found"
+msgstr "没有结果"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:35
+msgid "Warning!"
+msgstr "警告！"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:36
+#, php-format
+msgid ""
+"Go to the %s page if you want to save data, this page is for adding settings."
+msgstr "转到%s的页面，这个页面是用来保存数据的"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:37
+#, php-format
+msgid ""
+"If you're unsure or not completely positive that you should be editing these "
+"settings, you should read the %s first."
+msgstr "如果你不确定或不完全肯定的，你应该编辑这些设置，你应该先读%s。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:38
+msgid ""
+"Things could break or be improperly displayed to the end-user if you do one "
+"of the following:"
+msgstr "如果你做下列之一的事情可能中断或不正确显示给最终用户："
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:39
+msgid ""
+"Give two sections the same ID, give two settings the same ID, give two "
+"contextual help content areas the same ID, don't create any settings, or "
+"have a section at the end of the settings list."
+msgstr ""
+"举两个部分相同的ID，给两个设置相同的ID，举两个上下文帮助内容领域相同的ID，不"
+"产生任何设置，还是有部分在设置列表的末尾。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:40
+msgid ""
+"You can create as many settings as your project requires and use them how "
+"you see fit. When you add a setting here, it will be available on the Theme "
+"Options page for use in your theme. To separate your settings into sections, "
+"click the \"Add Section\" button, fill in the input fields, and a new "
+"navigation menu item will be created."
+msgstr ""
+"你可以创建许多设置你的项目需要，并利用它们，你怎么认为合适的。当您在此处添加"
+"的设置，这将可在你的主题使用的主题选项页面上。分离设置成几个部分，单击“添加"
+"组”按钮，填写输入字段，和一个新的导航菜单项将被创建。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:41
+msgid ""
+"All of the settings can be sorted and rearranged to your liking with Drag & "
+"Drop. Don't worry about the order in which you create your settings, you can "
+"always reorder them."
+msgstr ""
+"所有的设置都可以进行分类和重新排列，以自己的喜好与拖放。不要担心在你创建你设"
+"置的顺序，你总是可以重新排序。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:92
+msgid "Add Section"
+msgstr "添加段落"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:99
+msgid "Contextual Help"
+msgstr "上下文帮助"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:103
+msgid "Contextual Help Sidebar"
+msgstr "上下文帮助侧边栏"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:103
+msgid ""
+"If you decide to add contextual help to the Theme Option page, enter the "
+"optional \"Sidebar\" HTML here. This would be an extremely useful place to "
+"add links to your themes documentation or support forum. Only after you've "
+"added some content below will this display to the user."
+msgstr ""
+"如果您决定上下文帮助添加到主题选项页，在这里输入可选的“边栏”HTML。这将是链接"
+"添加到您的主题文件或支持论坛上一个非常有用的地方。您已经添加后才下面的一些内"
+"容将这款显示器给用户。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:132
+msgid "Add Contextual Help Content"
+msgstr "添加上下文帮助内容"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:168
+msgid ""
+"This import method has been deprecated. That means it has been replaced by a "
+"new method and is no longer supported, and may be removed from future "
+"versions. All themes that use this import method should be converted to use "
+"its replacement below."
+msgstr ""
+"此导入方法已经被废弃了。这意味着它已经被替换为一个新的方法，并不再支持，并且"
+"可以从将来的版本中删除。使用这种导入方法的所有主题应该转换为使用低于其更换。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:170
+#, php-format
+msgid ""
+"If you were given a Theme Options XML file with a premium or free theme, "
+"locate it on your hard drive and upload that file by clicking the upload "
+"button. A popup window will appear, upload the XML file and click \"%s\". "
+"The file URL should be in the upload input, if it is click \"Import XML\"."
+msgstr ""
+"If you were given a Theme Options XML file with a premium or free theme, "
+"locate it on your hard drive and upload that file by clicking the upload "
+"button. A popup window will appear, upload the XML file and click \"%s\". "
+"The file URL should be in the upload input, if it is click \"Import XML\"."
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:173
+msgid "Import XML"
+msgstr "导入XML"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:189
+msgid "Add XML"
+msgstr "添加XML"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:226
+msgid ""
+"To import your Settings copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Settings"
+"\" button."
+msgstr ""
+"要导入设置复制和粘贴似乎是一个随机字符串字母数字字符到这个文本区域，然后按“导"
+"入设置”按钮。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:229
+msgid "Import Settings"
+msgstr "导入设置"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:271
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr "你只进口后，设置你应该尝试和更新的主题选项。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:273
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+"要导入的主题选项复制并粘贴似乎是一个随机字符串字母数字字符到这个文本区域，然"
+"后按“导入主题选项”按钮。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:276
+msgid "Import Theme Options"
+msgstr "导入主题选项"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:318
+msgid ""
+"Only after you've imported the Settings should you try and update your "
+"Layouts."
+msgstr "只有你导入设置以后你才应该尝试更新你的布局。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:320
+msgid ""
+"To import your Layouts copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Layouts\" "
+"button. Keep in mind that when you import your layouts, the active layout's "
+"saved data will write over the current data set for your Theme Options."
+msgstr ""
+"要导入您的布局复制并粘贴似乎是一个随机字符串字母数字字符到这个文本区域，然后"
+"按“导入布局”按钮。请记住，当你输入你的布局，积极布局的保存数据会写在你的主题"
+"选项当前数据集。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:323
+msgid "Import Layouts"
+msgstr "导入布局"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:366
+#, php-format
+msgid ""
+"Export your Settings into a fully functional %s file. If you want to add "
+"your own custom %s text domain to the file, enter it into the text field "
+"before exporting. For more information on how to use this file read the "
+"documentation on %s. Remember, you should always check the file for errors "
+"before including it in your theme."
+msgstr ""
+"导出设置成一个功能齐全的%s文件。如果你想自己的自定义%s的文本域添加到该文件，"
+"将其输入到文本字段导出前。有关如何使用此文件的详细信息，请阅读%s上的文档。请"
+"记住，你应该总是包括它在你的主题之前检查错误文件。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:375
+msgid "Export Settings File"
+msgstr "导出设置文件"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:405
+msgid ""
+"Export your Settings by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Settings</strong> textarea "
+"on another web site."
+msgstr ""
+"通过突出显示该文本，并做了​​复制/粘贴到空白的.txt文件导出设置。然后保存文件导入"
+"到另一个安装WordPress后。或者，你可以只将其粘贴到<code>OptionTree-->设置->导"
+"入</code>在其他网站上<strong>设置</strong>文本域。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:441
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+msgstr ""
+"通过突出显示该文本，并做了​​复制/粘贴到空白的.txt文件导出主题选项的数据。然后保"
+"存文件导入到另一个安装WordPress后。或者，你可以只将其粘贴到<code>OptionTree->"
+"设置->导入</code>在其他网站上<strong>的主题选项</strong> 文本域。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:477
+msgid ""
+"Export your Layouts by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Layouts</strong> textarea "
+"on another web site."
+msgstr ""
+"Export your Layouts by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Layouts</strong> textarea "
+"on another web site."
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:519
+msgid ""
+"To add a new layout enter a unique lower case alphanumeric string (dashes "
+"allowed) in the text field and click \"Save Layouts\"."
+msgstr ""
+"要添加新的布局中输入文本字段独特的小写字母数字字符串（破折号允许），并点击“保"
+"存布局”。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:520
+msgid ""
+"As well, you can activate, remove, and drag & drop the order; all situations "
+"require you to click \"Save Layouts\" for the changes to be applied."
+msgstr ""
+"还有，你可以激活，删除和拖放秩序;所有情况需要你点击“保存布局”以应用更改。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:521
+msgid ""
+"When you create a new layout it will become active and any changes made to "
+"the Theme Options will be applied to it. If you switch back to a different "
+"layout immediately after creating a new layout that new layout will have a "
+"snapshot of the current Theme Options data attached to it."
+msgstr ""
+"当你创建一个新的布局将成为积极的主题选项所作的任何更改将被应用到它。如果你创"
+"建一个新的布局，新布局将连接到它当前的主题选项数据的快照后，立即切换到不同的"
+"布局。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:522
+msgid ""
+"Visit <code>OptionTree->Documentation->Layouts Overview</code> to see a more "
+"in-depth description of what layouts are and how to use them."
+msgstr ""
+"参观<code>OptionTree->文档->布局一览</code>看到一个更加深入的介绍一下布局，以"
+"及如何使用它们。"
+
+#: framework/option-tree/includes/ot-functions-settings-page.php:559
+msgid "Save Layouts"
+msgstr "保存布局"
+
+#: framework/option-tree/includes/ot-settings-api.php:356
+msgid "Reset Options"
+msgstr "重置设置"
+
+#: framework/option-tree/ot-loader.php:21
+msgid ""
+"OptionTree is installed as a plugin and also embedded in your current theme. "
+"Please deactivate the plugin to load the theme dependent version of "
+"OptionTree, and remove this warning."
+msgstr ""
+"OptionTree安装的插件，也嵌入在您当前的主题。请禁用插件加载OptionTree主题相关"
+"的版本，删除此警告。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr "安装所需插件"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "安装插件：%s"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr "发生了一些错误！"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:200
+#: framework/plugin-register/register-plugins.php:125
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "这个主题需要以下插件：%1$s。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:201
+#: framework/plugin-register/register-plugins.php:126
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "这个主题推荐以下插件：%1$s。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:202
+#: framework/plugin-register/register-plugins.php:127
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"很抱歉，但你没有安装%s的插件正确的权限。联系该网站的管理员在得到安装插件的帮"
+"助。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:203
+#: framework/plugin-register/register-plugins.php:128
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下所需插件目前处于非活动状态：%1$s。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:204
+#: framework/plugin-register/register-plugins.php:129
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "下面推荐的插件是目前处于非活动状态：%1$s。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:205
+#: framework/plugin-register/register-plugins.php:130
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"很抱歉，但你没有正确的权限来激活%s的插件。联系该网站的管理员在得到插件激活的"
+"帮助。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:206
+#: framework/plugin-register/register-plugins.php:131
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "下面的插件需要更新到最新版本，以确保与这个主题最大的兼容性：%1$s。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:207
+#: framework/plugin-register/register-plugins.php:132
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"很抱歉，但你没有正确的权限以更新%s的插件。联系该网站的管理员在得到插件更新的"
+"帮助。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:208
+#: framework/plugin-register/register-plugins.php:133
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "开始安装插件%s"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:209
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "开始激活插件"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr "返回所需的插件安装页面"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr "返回仪表盘"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:212
+#: framework/plugin-register/class-tgm-plugin-activation.php:1965
+msgid "Plugin activated successfully."
+msgstr "插件激活成功。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:213
+#: framework/plugin-register/class-tgm-plugin-activation.php:1652
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "以下插件已成功激活:%s"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件都已安装并激活成功。%1$s"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr "关闭此通知"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:556
+#: framework/plugin-register/class-tgm-plugin-activation.php:2182
+msgid "Return to the Dashboard"
+msgstr "返回到仪表板"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1186
+msgid "Private Repository"
+msgstr "私人信息库"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1189
+msgid "Pre-Packaged"
+msgstr "预先打包"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1194
+msgid "WordPress Repository"
+msgstr "WordPress 库"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1197
+msgid "Required"
+msgstr "必填"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1197
+msgid "Recommended"
+msgstr "推荐"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1200
+msgid "Not Installed"
+msgstr "未安装"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1202
+msgid "Installed But Not Activated"
+msgstr "已安装但尚未激活"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1304
+#: framework/plugin-register/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr "安装"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"无插件需要安装或者激活. <a href=\"%1$s\" title=\"返回仪表盘\">返回仪表盘</a>"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr "插件"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr "来源"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1394
+#: woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr "状态"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr "当前没有插件可以安装。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1630
+msgid "No plugins are available to be activated at this time."
+msgstr "当前没有插件可激活。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1948
+msgid "Install package not available."
+msgstr "安装包不可用"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "从<span class=\"code\">%s</span>&#8230; 下载安装包"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1950
+msgid "Unpacking the package&#8230;"
+msgstr "正在解压 &#8230;"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1951
+msgid "Installing the plugin&#8230;"
+msgstr "正在安装插件 &#8230;"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1952
+msgid "Plugin install failed."
+msgstr "插件安装失败。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1953
+msgid "Plugin installed successfully."
+msgstr "插件安装成功。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:1964
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2078
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "安装和激活过程开始。这个过程可能需要一段时间，请耐心等待。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 安装并成功激活。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2079
+#: framework/plugin-register/class-tgm-plugin-activation.php:2088
+msgid "Show Details"
+msgstr "显示详细信息"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2079
+#: framework/plugin-register/class-tgm-plugin-activation.php:2088
+msgid "Hide Details"
+msgstr "隐藏详细信息"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2080
+msgid "All installations and activations have been completed."
+msgstr "所有的安装和激活已完成。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安装并激活插件 %1$s (%2$d/%3$d)"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2085
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安装过程开始。该过程可能需要一段时间，请耐心等待。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装 %1$s 时发生了错误:<strong>%2$s</strong>"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2087
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s 安装失败。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2088
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s 安装成功"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2089
+msgid "All installations have been completed."
+msgstr "所有的安装已经完成。"
+
+#: framework/plugin-register/class-tgm-plugin-activation.php:2090
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "安装插件 %1$s (%2$d/%3$d)"
+
+#: framework/plugin-register/register-plugins.php:134
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "激活安装的插件 %s"
+
+#: framework/post-meta/post-meta-fields.php:176
+msgid "Add Images"
+msgstr "添加图像"
+
+#: framework/post-meta/post-meta-fields.php:288
+msgid "Post Settings"
+msgstr "文章设置"
+
+#: framework/post-meta/post-meta-fields.php:295
+msgid "Paste your UTR here , make usre to select the audio post format."
+msgstr "在这里粘贴UTR，记得选择音频格式。"
+
+#: framework/post-meta/post-meta-fields.php:296
+msgid "HTML5 Audio / Ogg"
+msgstr "HTML5音频/ OGG"
+
+#: framework/post-meta/post-meta-fields.php:301
+msgid "Paste your UTR here, make sure to select the audio post format."
+msgstr "在这里粘贴UTR，记得选择音频格式。"
+
+#: framework/post-meta/post-meta-fields.php:302
+msgid "HTML5 Audio / Mp3"
+msgstr "HTML5音频/ MP3"
+
+#: framework/post-meta/post-meta-fields.php:307
+msgid "Paste your video code here for video post format."
+msgstr "在这里粘贴视频编码。"
+
+#: framework/post-meta/post-meta-fields.php:308
+msgid "Embed Video"
+msgstr "嵌入视频"
+
+#: framework/post-meta/post-meta-fields.php:313
+msgid "Insert audio code here for audio post format"
+msgstr "在此处插入音频编码音频格式"
+
+#: framework/post-meta/post-meta-fields.php:314
+msgid "Embed Audio"
+msgstr "嵌入音频"
+
+#: framework/post-meta/post-meta-fields.php:319
+msgid "Make sure link post format is selected."
+msgstr "确保链接的格式选择。"
+
+#: framework/post-meta/post-meta-fields.php:325
+msgid "Add a quote post , select quote post format ."
+msgstr "添加引用后，选择引用的格式。"
+
+#: framework/post-meta/post-meta-fields.php:331
+msgid "the quote author."
+msgstr "引用的作者"
+
+#: framework/post-meta/post-meta-fields.php:332
+msgid "Quote Author"
+msgstr "引用作者"
+
+#: framework/post-meta/post-meta-fields.php:337
+msgid "Embed your tweet here."
+msgstr "在这里嵌入您的tweet"
+
+#: framework/post-meta/post-meta-fields.php:338
+msgid "Embed Twitter Status"
+msgstr "嵌入Twitter状态"
+
+#: framework/post-meta/post-meta-fields.php:343
+msgid ""
+"Create gallery and upload images by clicking on upload button , For multiple "
+"images selection , hold \"CTRL (windows) / Command (mac) \" button on your "
+"keyboard when clicking ."
+msgstr ""
+"创建库并通过点击上传按钮，对多个图像选择上传图片，点击时，应按“Ctrl键"
+"（Windows）/ Command键（Mac）”键盘上的按钮。"
+
+#: framework/theme-options.php:33 framework/theme-options.php:178
+msgid "Contacts"
+msgstr "联系人"
+
+#: framework/theme-options.php:37
+msgid "Social icons"
+msgstr "社交图标"
+
+#: framework/theme-options.php:41
+msgid "Appearance"
+msgstr "外观"
+
+#: framework/theme-options.php:45
+msgid "Blog Settings"
+msgstr "博客设置"
+
+#: framework/theme-options.php:49
+msgid "Portfolio Single page"
+msgstr "单个Portfolio页面"
+
+#: framework/theme-options.php:53
+msgid "Portfolio list page"
+msgstr "Portfolio表格页面"
+
+#: framework/theme-options.php:57
+msgid "Portfolio Grid"
+msgstr "Portfolio网格"
+
+#: framework/theme-options.php:67
+msgid "WooCommerce"
+msgstr "商店"
+
+#: framework/theme-options.php:71
+msgid "Sidebars"
+msgstr "侧边栏"
+
+#: framework/theme-options.php:83
+msgid "Logo"
+msgstr "Logo"
+
+#: framework/theme-options.php:84
+msgid ""
+"Upload or select your main logo image. This image will be shown in top of "
+"sidebar."
+msgstr "上传或选择你的主要标志形象。该图像将显示在侧边栏的顶部。"
+
+#: framework/theme-options.php:98
+msgid "Show small logo?"
+msgstr "显示小图标？"
+
+#: framework/theme-options.php:99
+msgid ""
+"Select whether or not you want to have a small logo in collapsed sidebar"
+msgstr "选择你是否希望有一个小的标志可关闭的侧边栏"
+
+#: framework/theme-options.php:113
+msgid "Small logo image"
+msgstr "小logo图片"
+
+#: framework/theme-options.php:128
+msgid "Copyright"
+msgstr "版权"
+
+#: framework/theme-options.php:129
+msgid "Copyright text which will be shown in bottom of sidebar"
+msgstr "用以在页脚中显示版权信息的文本"
+
+#: framework/theme-options.php:143
+msgid "Analytics script"
+msgstr "分析脚本"
+
+#: framework/theme-options.php:144
+msgid "Paste your Google analytics ( or other services ) code here"
+msgstr "在这里粘贴谷歌分析（或其他服务）的代码"
+
+#: framework/theme-options.php:158
+msgid "Site favicon"
+msgstr "网站图标"
+
+#: framework/theme-options.php:159
+msgid "Upload a 16x16 or 32x32 .png or .ico file"
+msgstr "上传一个16×16 32×32或.PNG或.ico文件"
+
+#: framework/theme-options.php:193 template-contact.php:39
+msgid "Contact"
+msgstr "联系方式"
+
+#: framework/theme-options.php:194
+msgid "Contact can be email, url, simple text, phone number, fax number, etc"
+msgstr "联系方式可以电子邮件，网址，简单的文本，电话号码，传真号码等"
+
+#: framework/theme-options.php:208
+msgid ""
+"The icon to be shown beside the contact in the list, find your icon here: <a "
+"href=\"http://fontawesome.io/icons/\" target=\"_blank\">http://fontawesome."
+"io/icons/</a> and input them like <code>fa-envelope</code>"
+msgstr ""
+"在列表中的联系人旁边显示的图标，在这里找到你的图标： <a href=\"http://"
+"fontawesome.io/icons/\" target=\"_blank\">http://fontawesome.io/icons/</a>像"
+"<code>fa-envelope</code>"
+
+#: framework/theme-options.php:223 template-contact.php:34
+msgid "Location"
+msgstr "地理位置"
+
+#: framework/theme-options.php:224
+msgid "input your location(s)"
+msgstr "输入您的位置"
+
+#: framework/theme-options.php:238
+msgid "Address"
+msgstr "地址"
+
+#: framework/theme-options.php:261
+msgid "Side bar social icons"
+msgstr "边栏社交图标"
+
+#: framework/theme-options.php:276
+msgid "Select icon"
+msgstr "选择图标"
+
+#: framework/theme-options.php:290
+msgid "facebook"
+msgstr "Facebook"
+
+#: framework/theme-options.php:295
+msgid "twitter"
+msgstr "Twitter"
+
+#: framework/theme-options.php:300
+msgid "instagram"
+msgstr "Instagram"
+
+#: framework/theme-options.php:305
+msgid "flickr"
+msgstr "Flickr"
+
+#: framework/theme-options.php:310
+msgid "youtube"
+msgstr "YouTube"
+
+#: framework/theme-options.php:315
+msgid "google plus"
+msgstr "Google+"
+
+#: framework/theme-options.php:322
+msgid "URL"
+msgstr "URL"
+
+#: framework/theme-options.php:344
+msgid "Enable lazyload on images?"
+msgstr "启用lazyload？"
+
+#: framework/theme-options.php:358
+msgid "Fixed sidebar"
+msgstr "固定侧边栏"
+
+#: framework/theme-options.php:359
+msgid "Setting this to be On, will fix the sidebar to be shown all the time"
+msgstr "如果打开, 侧边栏会一直固定显示"
+
+#: framework/theme-options.php:373
+msgid "Dark sidebar"
+msgstr "暗的侧边栏"
+
+#: framework/theme-options.php:374
+msgid "This will use an alternative color scheme for the sidebar."
+msgstr "这将使用另一种配色方案的侧栏。"
+
+#: framework/theme-options.php:395
+msgid "Blog Index Layout"
+msgstr "博客首页布局"
+
+#: framework/theme-options.php:396
+msgid "Choose the layout you want for your blog index"
+msgstr "选择您想要的主页布局"
+
+#: framework/theme-options.php:410
+msgid "Grid"
+msgstr "网格"
+
+#: framework/theme-options.php:415
+msgid "Simple list"
+msgstr "简单的列表"
+
+#: framework/theme-options.php:420
+msgid "List with Sidebar"
+msgstr "列表侧边栏"
+
+#: framework/theme-options.php:425
+msgid "Minimal"
+msgstr "最小"
+
+#: framework/theme-options.php:432
+msgid "Grid blog sidebar content"
+msgstr "网格博客侧边栏内容"
+
+#: framework/theme-options.php:433
+msgid ""
+"If you want some contents at the sidebar of the blog grid, put them here. "
+"Make sure you don't put so much content here, just a little bit of text or "
+"HTML as a description to your blog."
+msgstr ""
+"如果你想在博客网的侧边栏的一些内容，把它们放在这里。请确保你没有把这么多的内"
+"容在这里，文本或HTML的只是一点点，以你的博客的描述。"
+
+#: framework/theme-options.php:447 framework/theme-options.php:563
+msgid "Single Blog Post Layout"
+msgstr "单博客文章布局"
+
+#: framework/theme-options.php:448
+msgid "Choose the layout of your single blog post"
+msgstr "选择你的单博客文章的布局"
+
+#: framework/theme-options.php:462
+msgid "conventional layout with sidebar"
+msgstr "传统的侧边栏​​布局"
+
+#: framework/theme-options.php:467
+msgid "Conventional Layout without sidebar"
+msgstr "没有侧边栏的常规布局"
+
+#: framework/theme-options.php:472
+msgid "Full Cover Image"
+msgstr "全封面图片"
+
+#: framework/theme-options.php:479
+msgid "Blog Read More button"
+msgstr "博客阅读更多按钮"
+
+#: framework/theme-options.php:480
+msgid ""
+"Turn the blog list read more on or off - will not affect the minimal blog "
+"list layout"
+msgstr "将更多或关闭阅读博客列表 - 不会影响最小的博客列表布局"
+
+#: framework/theme-options.php:494
+msgid "Blog Read more button style"
+msgstr "博客阅读更多的按钮样式"
+
+#: framework/theme-options.php:495
+msgid "Select the style of your blog more button"
+msgstr "选择您的博客更多的按钮样式"
+
+#: framework/theme-options.php:509
+msgid "Default ( accent color )"
+msgstr "默认情况下（强调色）"
+
+#: framework/theme-options.php:514
+msgid "Default reverse"
+msgstr "默认情况下（反转色）"
+
+#: framework/theme-options.php:519
+msgid "Light"
+msgstr "亮色"
+
+#: framework/theme-options.php:526
+msgid "Blog Read More button size"
+msgstr "博客阅读更多按钮大小"
+
+#: framework/theme-options.php:527
+msgid "The size of your blog read more button"
+msgstr "你的博客的更多按钮的大小"
+
+#: framework/theme-options.php:556
+msgid "Extera Small"
+msgstr "特别小"
+
+#: framework/theme-options.php:564
+msgid "Select how you want to show your blog posts"
+msgstr "选择您要如何展现你的博客文章"
+
+#: framework/theme-options.php:578
+msgid "Full width cover"
+msgstr "全屏宽度"
+
+#: framework/theme-options.php:583
+msgid "Regular"
+msgstr "正常的"
+
+#: framework/theme-options.php:590
+msgid "Show author biography"
+msgstr "只看该作者信息"
+
+#: framework/theme-options.php:591
+msgid "Do you want to show the bio of the author at the end of each blog post?"
+msgstr "你想展现作者的信息在每一个博客帖子的结尾？"
+
+#: framework/theme-options.php:605
+msgid "Show Related Posts"
+msgstr "相关文章"
+
+#: framework/theme-options.php:606
+msgid ""
+"If you want to show the related posts of the same category turn this on."
+msgstr "如果你想显示同一类别的相关帖子打开这个。"
+
+#: framework/theme-options.php:620
+msgid "How many post to show?"
+msgstr "显示多少个？"
+
+#: framework/theme-options.php:635
+msgid "Gather data based on"
+msgstr "收集的数据的基础上"
+
+#: framework/theme-options.php:650
+msgid "Category"
+msgstr "分类"
+
+#: framework/theme-options.php:655
+msgid "Tags"
+msgstr "标签"
+
+#: framework/theme-options.php:662
+msgid "Show Prev and Next links at single post"
+msgstr "显示上一个和下一个链接在文章页面"
+
+#: framework/theme-options.php:677
+msgid "Show Sharings"
+msgstr "显示分享"
+
+#: framework/theme-options.php:692
+msgid "Sharings"
+msgstr "分享到"
+
+#: framework/theme-options.php:693
+msgid "Witch social media sharing buttons do you want to show?"
+msgstr "你想展示哪个社交分享按键？"
+
+#: framework/theme-options.php:724
+msgid "Sharing Title"
+msgstr "分享标题"
+
+#: framework/theme-options.php:725
+msgid "The Title of the Sharing section"
+msgstr "分享部分的标题"
+
+#: framework/theme-options.php:745 framework/theme-options.php:1382
+msgid "About sidebars"
+msgstr "关于侧边栏"
+
+#: framework/theme-options.php:746
+msgid "Create additional fields for your portfolio items."
+msgstr "创建你的portfolio项目的附加字段。"
+
+#: framework/theme-options.php:759
+msgid "Create Portfolio fields"
+msgstr "创建Portfolio领域"
+
+#: framework/theme-options.php:762
+msgid "Choose a unique title for each filed"
+msgstr "选择一个独特的标题"
+
+#: framework/theme-options.php:769 framework/theme-options.php:1406
+msgid "Write a lowercase single world as ID (or number), without any spaces"
+msgstr "写一个单一单词的ID（或数量），不带任何空格"
+
+#: framework/theme-options.php:780
+msgid "Show date"
+msgstr "显示日期"
+
+#: framework/theme-options.php:796
+msgid "Show Groups list ( categories )"
+msgstr "显示组列表（类别）"
+
+#: framework/theme-options.php:811
+msgid "Show tags"
+msgstr "显示tags"
+
+#: framework/theme-options.php:831
+msgid "Enable Ajax for portfolio pages?"
+msgstr "启用Ajax的Portfolio页面？"
+
+#: framework/theme-options.php:845
+msgid "Layout type"
+msgstr "布局类型"
+
+#: framework/theme-options.php:846
+msgid "Settings for:"
+msgstr "设置："
+
+#: framework/theme-options.php:860
+msgid "Grid Layout"
+msgstr "网格布局"
+
+#: framework/theme-options.php:865
+msgid "Vertical Covers Scroll Horizontal"
+msgstr "垂直覆盖水平滚动"
+
+#: framework/theme-options.php:870
+msgid "Horizontal Covers, Scroll Vertical"
+msgstr "水平覆盖，垂直滚动"
+
+#: framework/theme-options.php:877
+msgid "Animation on scroll"
+msgstr "滚动时动画"
+
+#: framework/theme-options.php:892
+msgid "Title ( Part one )"
+msgstr "标题（第一部分）"
+
+#: framework/theme-options.php:893
+msgid "first part of the title, leave blank in case you don't want it"
+msgstr "标题的第一部分，留空代表你不需要"
+
+#: framework/theme-options.php:907
+msgid "Title ( Part Two )"
+msgstr "标题（第二部分）"
+
+#: framework/theme-options.php:908
+msgid "Second and bolder part of the title"
+msgstr "标题的第二和更粗的一部分"
+
+#: framework/theme-options.php:922
+msgid "Side content"
+msgstr "侧边内容"
+
+#: framework/theme-options.php:923
+msgid ""
+"This content will be displayed under the title at sidebar<br /> <strong>Note:"
+"</strong> keep it short"
+msgstr "此内容将根据在侧边栏标题显示<br /> <strong>注意事项：</strong>保持简短"
+
+#: framework/theme-options.php:944
+msgid "Show filters for Grid layout"
+msgstr "显示过滤器网格布局"
+
+#: framework/theme-options.php:945
+msgid ""
+"Do you want to show filters ( filter by group ) for Grid layout? <br> Note: "
+"We don't recommend to use both filters and side-content at the same time, "
+"use both on your own risk."
+msgstr ""
+"你想展示的过滤器（按组过滤器）的网格布局？ <br>注：我们不建议在同一时间同时使"
+"用过滤器和侧面的内容，同时使用有大风险。"
+
+#: framework/theme-options.php:959
+msgid "Filter title"
+msgstr "过滤器标题"
+
+#: framework/theme-options.php:974
+msgid "Same Ratio Thumbs"
+msgstr "相同的比例缩略图"
+
+#: framework/theme-options.php:975 framework/theme-options.php:1264
+msgid ""
+"If all your thumbnails are at the same ratio turn this on, for example if "
+"you want all your thumbs to be at the same size, or even if you have two "
+"different same ratio images. If you want to use images with variable "
+"heightes leave this to be off."
+msgstr ""
+"如果你希望所有的拇指是在相同的尺寸，甚至如果你有两个不同的相同比例的图像。如"
+"果你所有的缩略图都以同比例打开这个，例如。如果你想使用的图片与可变heightes离"
+"开这个处于关闭状态。"
+
+#: framework/theme-options.php:989
+msgid "Portfolio Grid Hover style"
+msgstr "Portfolio网格悬停风格"
+
+#: framework/theme-options.php:1009
+msgid "style #2"
+msgstr "风格 #2"
+
+#: framework/theme-options.php:1016
+msgid "Remove spaces between images ( no padding )"
+msgstr "图像之间删除空格（无填充）"
+
+#: framework/theme-options.php:1031
+msgid "Portfolio Grid Larg Screen column count"
+msgstr "Portfolio网格大屏的列数计数"
+
+#: framework/theme-options.php:1032 framework/theme-options.php:1294
+msgid "Number of grid columns at large screens"
+msgstr "大屏幕的格列数"
+
+#: framework/theme-options.php:1046
+msgid "Portfolio Grid Medium Column Count"
+msgstr "Portfolio网格中屏的列数计数"
+
+#: framework/theme-options.php:1047 framework/theme-options.php:1309
+msgid "For medium devices"
+msgstr "对于中型设备"
+
+#: framework/theme-options.php:1061
+msgid "Portfolio Grid Small Column Count"
+msgstr "Portfolio网格小屏的列数计数"
+
+#: framework/theme-options.php:1062 framework/theme-options.php:1324
+msgid "For small display devices"
+msgstr "对于小型设备"
+
+#: framework/theme-options.php:1082
+msgid "Gallery Index Layout"
+msgstr "画廊主页布局"
+
+#: framework/theme-options.php:1083
+msgid ""
+"choose how you want to show the index page of the gallery ( the page that "
+"will list all your images )"
+msgstr "选择你要显示的画廊（该页面会列出所有的图像）的索引页"
+
+#: framework/theme-options.php:1097
+msgid "grid"
+msgstr "网格"
+
+#: framework/theme-options.php:1102
+msgid "horizontal scrolling"
+msgstr "水平滚动"
+
+#: framework/theme-options.php:1107
+msgid "inpage"
+msgstr "页内"
+
+#: framework/theme-options.php:1112
+msgid "minimal"
+msgstr "最小"
+
+#: framework/theme-options.php:1119
+msgid "Gallery title line1"
+msgstr "图集的标题1"
+
+#: framework/theme-options.php:1134
+msgid "Gallery title line2"
+msgstr "图集的标题2"
+
+#: framework/theme-options.php:1149
+msgid "Gallery side content"
+msgstr "图集侧边内容"
+
+#: framework/theme-options.php:1164
+msgid "Gallery index - Image Hover type"
+msgstr "画廊主页 图片鼠标悬停风格"
+
+#: framework/theme-options.php:1179
+msgid "simple-icon"
+msgstr "简单图标"
+
+#: framework/theme-options.php:1184
+msgid "circle"
+msgstr "圆"
+
+#: framework/theme-options.php:1189
+msgid "plus-light"
+msgstr "+亮"
+
+#: framework/theme-options.php:1194
+msgid "plus-dark"
+msgstr "+暗"
+
+#: framework/theme-options.php:1199
+msgid "plus-color"
+msgstr "+色"
+
+#: framework/theme-options.php:1206
+msgid "Gallery Grid - Layout Type"
+msgstr "图库网格 - 布局类型"
+
+#: framework/theme-options.php:1207
+msgid "choose between Layouts"
+msgstr "布局之间的选择"
+
+#: framework/theme-options.php:1221
+msgid "With sidebar"
+msgstr "左侧边栏"
+
+#: framework/theme-options.php:1226
+msgid "Full - No sidebar"
+msgstr "没有侧边栏"
+
+#: framework/theme-options.php:1233
+msgid "Gallery Grid - Show filters?"
+msgstr "图库网格 - 显示过滤器？"
+
+#: framework/theme-options.php:1234
+msgid ""
+"Do you want to show filters ( filter by group ) for Grid layout?  Note: We "
+"don't recommend to use both filters and side-content at the same time, use "
+"both on your own risk."
+msgstr ""
+"你想展示的过滤器（按组过滤器）的网格布局？ 注：我们不建议在同一时间同时使用过"
+"滤器和侧面的内容，同时使用有大风险。"
+
+#: framework/theme-options.php:1248
+msgid "Gallery Grid - Filter title"
+msgstr "图库网格 - 过滤标题"
+
+#: framework/theme-options.php:1263
+msgid "Gallery Grid - Same Ratio Thumbs?"
+msgstr "图库网格 - 相同的比例缩略图？"
+
+#: framework/theme-options.php:1278
+msgid "Gallery Grid - Remove spaces between images?"
+msgstr "图库网格 - 图像之间删除空格？"
+
+#: framework/theme-options.php:1293
+msgid "Gallery Grid - Larg Screen column count"
+msgstr "图库网格 - 大屏幕列数"
+
+#: framework/theme-options.php:1308
+msgid "Gallery Grid - Medium Screen Column Count"
+msgstr "图库网格 - 中屏幕列数"
+
+#: framework/theme-options.php:1323
+msgid "Gallery Grid - Small Column Count"
+msgstr "图库网格 - 小屏幕列数"
+
+#: framework/theme-options.php:1344
+msgid "woocommerce Sidebar"
+msgstr "商城侧边栏"
+
+#: framework/theme-options.php:1359
+msgid "Left"
+msgstr "左边"
+
+#: framework/theme-options.php:1364
+msgid "Right"
+msgstr "右边"
+
+#: framework/theme-options.php:1369
+msgid "No sidebar"
+msgstr "没有侧边栏"
+
+#: framework/theme-options.php:1383
+msgid ""
+"Create any sidebar then go to Appearance &gt; Widgets and add widgets to "
+"them, and then you can choose them for specific pages or posts using visual "
+"composer"
+msgstr ""
+"创建任何侧边栏然后到外观>窗口小部件和添加小工具给他们，那么你可以选择他们使用"
+"可视化编辑器"
+
+#: framework/theme-options.php:1396
+msgid "Create Sidebars"
+msgstr "创建侧边栏"
+
+#: framework/theme-options.php:1399
+msgid "Choose a unique title for each sidebar"
+msgstr "选择一个独特的标题"
+
+#: page-blog-minimal.php:69 templates/blog/minimal.php:78
+msgid "By"
+msgstr "By:"
+
+#: page-blog-minimal.php:75 templates/blog/minimal.php:83
+msgid "in"
+msgstr "In:"
+
+#: search.php:17
+#, php-format
+msgid "Search Results for \"%s\""
+msgstr "搜索 %s 结果"
+
+#: search.php:19
+msgid "Displaying"
+msgstr "显示"
+
+#: search.php:19
+msgid "of"
+msgstr "of"
+
+#: search.php:19
+msgid "results"
+msgstr "结果"
+
+#: search.php:31
+msgid "Sorry, we could not find any results"
+msgstr "很抱歉，没有找到任何结果"
+
+#: template-contact.php:53
+msgid "Socials"
+msgstr "社交媒体"
+
+#: template-woocommerce-page.php:73 woocommerce/parts/header.php:53
+msgid "Shopping cart"
+msgstr "购物车"
+
+#: templates/blog/format-audio.php:40
+#: templates/blog/single-full-format-audio.php:96
+msgid "Your browser does not support the audio element."
+msgstr "您的浏览器不支持音频元素。"
+
+#: templates/blog/format.php:40 templates/blog/format.php:107
+msgid "Read More"
+msgstr "阅读全文..."
+
+#: templates/blog/grid.php:23 templates/blog/list_with_sidebar.php:23
+#: templates/blog/simple_list.php:26
+msgid "Blog"
+msgstr "博客"
+
+#: templates/blog/grid.php:39 templates/blog/list_with_sidebar.php:39
+#: templates/blog/minimal.php:33 templates/blog/simple_list.php:44
+#, php-format
+msgid "Category Archives for %s"
+msgstr "分类存档：%s"
+
+#: templates/blog/grid.php:44 templates/blog/list_with_sidebar.php:44
+#: templates/blog/minimal.php:38 templates/blog/simple_list.php:49
+#, php-format
+msgid "Tag Archives for %s"
+msgstr "标签归档: %s"
+
+#: templates/blog/grid.php:49 templates/blog/list_with_sidebar.php:49
+#: templates/blog/minimal.php:43 templates/blog/simple_list.php:54
+#, php-format
+msgid "All posts by %s"
+msgstr "查看 %s 所有文章"
+
+#: templates/blog/grid.php:55 templates/blog/list_with_sidebar.php:55
+#: templates/blog/minimal.php:49 templates/blog/simple_list.php:60
+#, php-format
+msgid "Daily Archives for %s"
+msgstr "每日归档:%s"
+
+#: templates/blog/grid.php:57 templates/blog/list_with_sidebar.php:57
+#: templates/blog/minimal.php:51 templates/blog/simple_list.php:62
+#, php-format
+msgid "Monthly Archives for %s"
+msgstr "按月归档：%s"
+
+#: templates/blog/grid.php:57 templates/blog/list_with_sidebar.php:57
+#: templates/blog/minimal.php:51 templates/blog/simple_list.php:62
+msgctxt "Monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: templates/blog/grid.php:59 templates/blog/list_with_sidebar.php:59
+#: templates/blog/minimal.php:53 templates/blog/simple_list.php:64
+#, php-format
+msgid "Yearly Archives for %s"
+msgstr "年度归档：%s"
+
+#: templates/blog/grid.php:59 templates/blog/list_with_sidebar.php:59
+#: templates/blog/minimal.php:53 templates/blog/simple_list.php:64
+msgctxt "Yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: templates/blog/grid.php:61 templates/blog/list_with_sidebar.php:61
+#: templates/blog/minimal.php:55 templates/blog/simple_list.php:66
+msgid "Archives"
+msgstr "归档"
+
+#: templates/blog/minimal.php:23
+msgid "Journal <span>Our News & Ideas about Love</span>"
+msgstr "<span>我们的</span>日记关于<span>News或者Love</span>"
+
+#: templates/blog/single-full-content.php:51
+#: templates/blog/single-full.php:102 templates/blog/single-regular.php:83
+msgid "Related Posts"
+msgstr "相关推荐"
+
+#: templates/gallery/taxonomy-grid.php:23
+#: templates/gallery/taxonomy-vertical.php:21
+msgid "Browse Album"
+msgstr "浏览相册"
+
+#: templates/portfolio/taxonomy-grid.php:20
+#: templates/portfolio/taxonomy-horizontal.php:20
+#: templates/portfolio/taxonomy-vertical.php:20
+msgid "Browse Group"
+msgstr "浏览组"
+
+#: woocommerce/cart/cart.php:27 woocommerce/checkout/review-order.php:18
+#: woocommerce/order/order-details.php:18
+msgid "Product"
+msgstr "产品"
+
+#: woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr "价格"
+
+#: woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr "数量"
+
+#: woocommerce/cart/cart.php:30 woocommerce/checkout/review-order.php:19
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/order/order-details.php:19
+msgid "Total"
+msgstr "合计"
+
+#: woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr "移除该产品"
+
+#: woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr "现在缺货"
+
+#: woocommerce/cart/cart.php:119
+msgid "Coupon"
+msgstr "优惠券"
+
+#: woocommerce/cart/cart.php:119
+msgid "Coupon code"
+msgstr "优惠码"
+
+#: woocommerce/cart/cart.php:119
+msgid "Apply Coupon"
+msgstr "使用折扣卷"
+
+#: woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr "刷新购物车"
+
+#: woocommerce/cart/cart.php:126
+msgid "Proceed to Checkout"
+msgstr "去结账付款"
+
+#: woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr "您可能感兴趣的..."
+
+#: woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr "账单和运费"
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing Details"
+msgstr "账单明细"
+
+#: woocommerce/checkout/form-billing.php:38
+msgid "Create an account?"
+msgstr "创建一个账户？"
+
+#: woocommerce/checkout/form-billing.php:49
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr "输入以下信息创建一个帐户。如果您是老顾客，请登录页面的顶部。"
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr "发货到另外的地址？"
+
+#: woocommerce/checkout/form-shipping.php:55
+msgid "Additional Information"
+msgstr "附加信息"
+
+#: woocommerce/checkout/review-order.php:25
+msgid "Cart Subtotal"
+msgstr "小计"
+
+#: woocommerce/checkout/review-order.php:79
+msgid "Order Total"
+msgstr "订单总额"
+
+#: woocommerce/checkout/review-order.php:150
+msgid "Please fill in your details above to see available payment methods."
+msgstr "请填写您的详细信息上面看到可用的付款方式。"
+
+#: woocommerce/checkout/review-order.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"对不起，你的国家似乎没有可用的支付方式。如果您需要帮助或希望作出其他安排，请"
+"与我们联系。"
+
+#: woocommerce/checkout/review-order.php:163
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"由于您的浏览器不支持JavaScript，或者它被禁用，请确保您单击<em>更新汇总</em>按"
+"钮订单前。你可能会收取超过上述，如果你不这样做的数额。"
+
+#: woocommerce/checkout/review-order.php:163
+msgid "Update totals"
+msgstr "刷新合计"
+
+#: woocommerce/checkout/review-order.php:170
+msgid "Place order"
+msgstr "下订单"
+
+#: woocommerce/checkout/review-order.php:179
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr "我已阅读并接受 <a href=\"%s\" target=\"_blank\">条款和条件</a>"
+
+#: woocommerce/checkout/thankyou.php:16
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr "您的订单无法处理；您的银行/商家已经拒绝了您的交易。"
+
+#: woocommerce/checkout/thankyou.php:20
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "请再次尝试购买或到您的帐户页面。"
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again."
+msgstr "请再次尝试购买。"
+
+#: woocommerce/checkout/thankyou.php:26 woocommerce/myaccount/my-orders.php:68
+msgid "Pay"
+msgstr "支付"
+
+#: woocommerce/checkout/thankyou.php:28
+msgid "My Account"
+msgstr "我的帐户"
+
+#: woocommerce/checkout/thankyou.php:35 woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr "谢谢。您的订单已支付完成。"
+
+#: woocommerce/checkout/thankyou.php:39
+msgid "Order:"
+msgstr "预定："
+
+#: woocommerce/checkout/thankyou.php:43
+msgid "Date:"
+msgstr "日期："
+
+#: woocommerce/checkout/thankyou.php:47
+msgid "Total:"
+msgstr "总计："
+
+#: woocommerce/checkout/thankyou.php:52
+msgid "Payment method:"
+msgstr "付款方式："
+
+#: woocommerce/global/form-login.php:22
+msgid "Username or email"
+msgstr "用户名或电子邮件"
+
+#: woocommerce/global/form-login.php:26
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:88
+msgid "Password"
+msgstr "密码"
+
+#: woocommerce/global/form-login.php:35
+#: woocommerce/myaccount/form-login.php:27
+#: woocommerce/myaccount/form-login.php:46
+msgid "Login"
+msgstr "登录"
+
+#: woocommerce/global/form-login.php:38
+#: woocommerce/myaccount/form-login.php:48
+msgid "Remember me"
+msgstr "记住我的帐户"
+
+#: woocommerce/global/form-login.php:42
+#: woocommerce/myaccount/form-login.php:52
+msgid "Lost your password?"
+msgstr "忘记密码？"
+
+#: woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr "用户名或邮箱地址"
+
+#: woocommerce/myaccount/form-login.php:65
+#: woocommerce/myaccount/form-login.php:102
+msgid "Register"
+msgstr "注册"
+
+#: woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr "用户名"
+
+#: woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr "电子邮箱"
+
+#: woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr "反垃圾邮件"
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr "我的地址"
+
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:116
+msgid "Billing Address"
+msgstr "帐单地址"
+
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:131
+msgid "Shipping Address"
+msgstr "送货地址"
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr "我的地址"
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "下面的地址将在结帐页面默认情况下使用。"
+
+#: woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr "您还没有建立这种类型的地址呢。"
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr "最近的订单"
+
+#: woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr "订单"
+
+#: woocommerce/myaccount/my-orders.php:59
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s for %s 项目"
+
+#: woocommerce/myaccount/my-orders.php:75
+msgid "Cancel"
+msgstr "取消"
+
+#: woocommerce/myaccount/my-orders.php:81
+msgid "View"
+msgstr "查看"
+
+#: woocommerce/order/order-details.php:14
+msgid "Order Details"
+msgstr "订单的详细信息"
+
+#: woocommerce/order/order-details.php:52
+#, php-format
+msgid "Download file%s"
+msgstr "下载文件%s"
+
+#: woocommerce/order/order-details.php:95
+msgid "Customer details"
+msgstr "客户详细信息"
+
+#: woocommerce/order/order-details.php:99
+msgid "Email:"
+msgstr "电子邮箱:"
+
+#: woocommerce/order/order-details.php:100
+msgid "Telephone:"
+msgstr "电话："
+
+#: woocommerce/order/order-details.php:120
+#: woocommerce/order/order-details.php:135
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/single-product-reviews.php:21
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s 评价 %s"
+
+#: woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr "评价"
+
+#: woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr "目前没有评价。"
+
+#: woocommerce/single-product-reviews.php:57
+msgid "Add a review"
+msgstr "添加评价"
+
+#: woocommerce/single-product-reviews.php:57
+msgid "Be the first to review"
+msgstr "抢沙发"
+
+#: woocommerce/single-product-reviews.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "回复给 %s"
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Submit"
+msgstr "提交"
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Your Rating"
+msgstr "您的评分"
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Rate&hellip;"
+msgstr "评分..."
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Perfect"
+msgstr "完美"
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Good"
+msgstr "很好"
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Average"
+msgstr "一般"
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Not that bad"
+msgstr "还可以"
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Very Poor"
+msgstr "很差"
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Your Review"
+msgstr "您的评价"
+
+#: woocommerce/single-product-reviews.php:92
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "只有登录购买该产品的客户才能评论。"
+
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr "相关产品"
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "评分 %d 满分5分"
+
+#: woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr "超出5分"
+
+#: woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr "你的评论正在审核"
+
+#: woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr "店主已认证"
+
+#: woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr "您可能感兴趣的..."

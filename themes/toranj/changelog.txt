@@ -1,0 +1,70 @@
+v 1.0.1
+
+- Portfolio navgation fix for RTL
+- custom-grid class fix
+- dark-sidebar color fix
+- compare image multiinstace added
+
+v 1.0.2
+
+- added child theme capability
+- added sample child theme to package
+
+v 1.0.3
+- fixed child theme option-tree bug
+- added support for extera css for child theme
+- some rtl  css fixes
+
+v 1.0.4
+- fixed menu and blog layout default values
+
+v 1.0.5
+- removed the jquery restrict declaration
+
+v 1.1.0 - 10/7/2014
+- Added two recommended plugins to enhance ordering
+- Added sub albums to gallery layout's sidebar
+- Added sub groups to portfolio layout's sidebar
+- Portfolio groups are now hierarchical
+- Added Google fonts to theme options
+- Added two portfolio single layouts (regular dark, regular light)
+- Added more social icons to theme options
+- Added Dropcap Shortcode ( also available in visual composer)
+- Updated native theme plugins ( 3 plugins )
+- Updated MasterSlider plugin
+- Fixed scrolling issue in iOS8
+- Fixed width of sidebar issue in iOS8
+- Added lightbox close on background click
+- Fixed accent color issues
+- Changed portfolio navigations to show at non-ajax mode
+- Updated child-theme
+
+
+v 1.2.1 - 10 Oct 2014
+
+- Added New Bulk Gallery plugin
+- Updated Kenburn Slider Plugin
+- Updated Portfolio Plugin
+- Updated Gallery Plugin
+- Added portfolio grid element in visual composer
+- Added capability to change custom post type slugs at theme options 
+- Added capability to filter custom post type slugs within child theme
+- Added capability of different image widths to Horizontal scroll gallery visual composer element
+- Added capability to limit by albums in list of albums visual composer element
+- Added de_DE language files
+- Added Fa_IR language files
+- Removed Visual composer activation notice 
+- Updated FontAwesome updated to v 4.2
+- Added archive pages links to admin menu setting page
+- Added password protected galleries via bulk gallery plugin
+- Added more coloring options to theme option
+- Added capability to have fullwidth rows at fullwidth page templates
+- Added taxonomy label archive page
+- Updated visual composer elements icons
+- More optimizations for image sizes
+- Fixed Double Carousel keyboard navigation
+- Fixed portfolio descriptions and gallery and group descriptions paragraphs
+- Fixed double Carousel social icon links
+- Fixed kenburn slider issue
+- Fixed accent color theme option bug in firefox
+- Deprecated "Dark Normal Page" and "Normal Page" templates, you can gain the same with fullwidth templates
